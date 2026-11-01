@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>MyDato</title>
+    <item>
+      <title>MyDato 1.1.0</title>
+      <pubDate>Sun, 01 Nov 2026 19:43:00 +0000</pubDate>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Primera versión con actualizaciones automáticas (Sparkle).</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mydato-v1.1.0/MyDato-1.1.0.zip" length="2920696" type="application/octet-stream" sparkle:edSignature="TQobvtQ8AjwOUdN6mZruB+vtfGZ4KlficVZy/sc+8SnXEqE7X8PY6L89qiETMT1rT1tnXvKZSNtvZ8FK6DCuAw=="/>
+    </item>
+  </channel>
+</rss>

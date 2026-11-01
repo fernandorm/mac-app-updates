@@ -1,0 +1,9 @@
+{
+  "name": "MyDato",
+  "slug": "mydato",
+  "bundleId": "com.trinitycommerce.MyDato",
+  "teamId": "KQMP2NUSS7",
+  "publicEDKey": "tdw46ILse0HjoSFvlT+2HkeH0B5dL4VsuAWOAH82rzk=",
+  "minimumSystemVersion": "15.0",
+  "feedUrl": "https://raw.githubusercontent.com/fernandorm/mac-app-updates/main/apps/mydato/appcast.xml"
+}
