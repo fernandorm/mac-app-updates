@@ -66,12 +66,17 @@ if gh release view "$TAG" --repo "$REPO" >/dev/null 2>&1; then fail "Ya existe l
 (cd "$ROOT" && git pull --ff-only --quiet) || fail "No se pudo actualizar el repo de actualizaciones"
 
 # One publication at a time: two runs would race when pushing the feed.
+# (Dry runs don't push anything, so they don't need the lock and can run in parallel.)
 LOCK="$ROOT/.publish.lock"
-mkdir "$LOCK" 2>/dev/null || fail "Ya hay otra publicación en curso (si no es así, borra $LOCK)"
+HAVE_LOCK=0
+if [ "$DRY_RUN" = 0 ]; then
+    mkdir "$LOCK" 2>/dev/null || fail "Ya hay otra publicación en curso (si no es así, borra $LOCK)"
+    HAVE_LOCK=1
+fi
 # Private scratch folder per run (concurrent dry runs must not delete each other's files).
 mkdir -p "$ROOT/work"
 WORK="$(mktemp -d "$ROOT/work/$TAG.XXXXXX")"
-cleanup() { rmdir "$LOCK" 2>/dev/null || true; [ "$DRY_RUN" = 1 ] || rm -rf "$WORK"; }
+cleanup() { [ "$HAVE_LOCK" = 0 ] || rmdir "$LOCK" 2>/dev/null || true; [ "$DRY_RUN" = 1 ] || rm -rf "$WORK"; }
 trap cleanup EXIT
 STAGED_APP="$WORK/$(basename "$APP_PATH")"
 ditto "$APP_PATH" "$STAGED_APP"
