@@ -18,6 +18,9 @@ tools/setup-sparkle.sh      descarga las herramientas oficiales de Sparkle (no s
 | App | Slug | Feed |
 |---|---|---|
 | MyPaste | `mypaste` | [`apps/mypaste/appcast.xml`](apps/mypaste/appcast.xml) |
+| ClipMaker | `clipmaker` | [`apps/clipmaker/appcast.xml`](apps/clipmaker/appcast.xml) |
+| ReCast | `recast` | [`apps/recast/appcast.xml`](apps/recast/appcast.xml) |
+| ReVoice | `revoice` | [`apps/revoice/appcast.xml`](apps/revoice/appcast.xml) (solo la app; el motor de Python vive en su repositorio) |
 
 ## Requisitos en el Mac que publica (una sola vez)
 
@@ -57,6 +60,8 @@ scripts/release.sh 1.2.0 "Qué cambia" --dry-run    # ensayo completo sin public
 - la app no está firmada con Developer ID, o su `SUPublicEDKey` no coincide con la clave del llavero;
 - la versión no es mayor que la última publicada, o la release ya existe;
 - la notarización falla (salvo con `--skip-notarize`).
+
+Solo se publica una versión a la vez (candado `.publish.lock`), y cada ejecución usa su propia carpeta temporal.
 
 El **feed se actualiza el último**, solo cuando el ZIP ya es público y descargable con el tamaño correcto. Si algo falla antes, ninguna Mac ve la versión.
 

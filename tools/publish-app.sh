@@ -45,7 +45,6 @@ REPO="$(cd "$ROOT" && gh repo view --json nameWithOwner --jq .nameWithOwner)"
 TAG="$SLUG-v$VERSION"
 APP_DIR="$ROOT/apps/$SLUG"
 EXPECTED_FEED="https://raw.githubusercontent.com/$REPO/main/apps/$SLUG/appcast.xml"
-WORK="$ROOT/work/$TAG"
 ZIP_NAME="$APP_NAME-$VERSION.zip"
 
 # ── 1. Checks ────────────────────────────────────────────────────────────────
@@ -66,7 +65,14 @@ fi
 if gh release view "$TAG" --repo "$REPO" >/dev/null 2>&1; then fail "Ya existe la release $TAG"; fi
 (cd "$ROOT" && git pull --ff-only --quiet) || fail "No se pudo actualizar el repo de actualizaciones"
 
-rm -rf "$WORK" && mkdir -p "$WORK"
+# One publication at a time: two runs would race when pushing the feed.
+LOCK="$ROOT/.publish.lock"
+mkdir "$LOCK" 2>/dev/null || fail "Ya hay otra publicación en curso (si no es así, borra $LOCK)"
+# Private scratch folder per run (concurrent dry runs must not delete each other's files).
+mkdir -p "$ROOT/work"
+WORK="$(mktemp -d "$ROOT/work/$TAG.XXXXXX")"
+cleanup() { rmdir "$LOCK" 2>/dev/null || true; [ "$DRY_RUN" = 1 ] || rm -rf "$WORK"; }
+trap cleanup EXIT
 STAGED_APP="$WORK/$(basename "$APP_PATH")"
 ditto "$APP_PATH" "$STAGED_APP"
 
@@ -137,7 +143,6 @@ json.dump({"name": e["APP_NAME"], "slug": e["SLUG"], "bundleId": e["BUNDLE_ID"],
            "publicEDKey": e["PUBLIC_KEY"], "minimumSystemVersion": e["MIN_OS"], "feedUrl": e["FEED_URL"]},
           open(sys.argv[1], "w"), indent=2)' "$APP_DIR/app.json"
 (cd "$ROOT" && git add "apps/$SLUG" && git commit --quiet -m "$APP_NAME $VERSION" && git push --quiet)
-rm -rf "$WORK"
 
 echo "✅ $APP_NAME $VERSION publicada."
 echo "   Release: https://github.com/$REPO/releases/tag/$TAG"
