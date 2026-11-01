@@ -1,0 +1,9 @@
+{
+  "name": "ReCast",
+  "slug": "recast",
+  "bundleId": "com.trinitycommerce.recast",
+  "teamId": "KQMP2NUSS7",
+  "publicEDKey": "/6dbsP6UB86Bxt8ZNeu7IBBL1w3YWvCoINuWgSD5RZA=",
+  "minimumSystemVersion": "14.0",
+  "feedUrl": "https://raw.githubusercontent.com/fernandorm/mac-app-updates/main/apps/recast/appcast.xml"
+}

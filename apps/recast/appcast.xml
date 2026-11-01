@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>ReCast</title>
+    <item>
+      <title>ReCast 1.1.0</title>
+      <pubDate>Sun, 01 Nov 2026 19:40:17 +0000</pubDate>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Primera versión con actualizaciones automáticas (Sparkle). Identificador com.trinitycommerce.recast; preferencias y secretos se migran solos. macOS pedirá de nuevo Grabación de pantalla, Micrófono y Apple Events.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/recast-v1.1.0/ReCast-1.1.0.zip" length="4092436" type="application/octet-stream" sparkle:edSignature="/KnEXyNc+TXSJDvOpcWVxH8gCA8Nm6PKLboU788j2+G0Dt2FtjWpEUDXSA9Duv4QcWnTQJIYBU0obxQmEM/cAg=="/>
+    </item>
+  </channel>
+</rss>
