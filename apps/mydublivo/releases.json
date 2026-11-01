@@ -1,0 +1,12 @@
+[
+  {
+    "version": "0.2.0",
+    "shortVersion": "0.2.0",
+    "minimumSystemVersion": "15.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mydublivo-v0.2.0/MyDublivo-0.2.0.zip",
+    "length": 2025072,
+    "signature": "1Jrygq8ejavtEwkoP9XHvTwIAcpODigWo2Io1cL9Z3ksf74W85bt/hKPucjFTHmObk7SWh/KzNhmck/v/2unCg==",
+    "notes": "Primera versión con actualizaciones automáticas (Sparkle). Antes se llamaba DubLocal; preferencias y datos se migran solos. El motor de Python sigue en ~/Projects/MyDublivo/engine.",
+    "pubDate": "Sun, 01 Nov 2026 19:54:34 +0000"
+  }
+]
