@@ -1,0 +1,4 @@
+tools/sparkle/
+work/
+*.zip
+.DS_Store
