@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>MyPaste</title>
+    <item>
+      <title>MyPaste 1.1.0</title>
+      <pubDate>Sun, 01 Nov 2026 15:39:49 +0000</pubDate>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Primera versión con actualizaciones automáticas. Incluye Quick Look, selección múltiple, modo texto plano, pila de pegado, OCR, vista previa de enlaces, filtros y arrastrar y soltar.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mypaste-v1.1.0/MyPaste-1.1.0.zip" length="2362983" type="application/octet-stream" sparkle:edSignature="31Y+3vWtOlaJDePYNa88T0p0T6J9GMDQwVuBvjjP7fg7qvcbSJjvIPZoLfLr/YqSfIKHvq9iG/ku9IMITapHDQ=="/>
+    </item>
+  </channel>
+</rss>
