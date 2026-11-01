@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.1.1",
+    "shortVersion": "1.1.1",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mypaste-v1.1.1/MyPaste-1.1.1.zip",
+    "length": 2362995,
+    "signature": "K917OHijDQ0mhY44fgs209DRJAX/pNBpll1mGtnxyZSE5PLLkz+jbBBwT1ACfBZttZtdVRYgFF2xJnZPDCRgDw==",
+    "notes": "Prueba del sistema de actualizaciones automáticas (sin cambios funcionales).",
+    "pubDate": "Sun, 01 Nov 2026 15:46:30 +0000"
+  },
+  {
     "version": "1.1.0",
     "shortVersion": "1.1.0",
     "minimumSystemVersion": "14.0",
