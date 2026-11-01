@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>ClipMaker</title>
+    <item>
+      <title>ClipMaker 1.1.0</title>
+      <pubDate>Sun, 01 Nov 2026 19:34:59 +0000</pubDate>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Primera versión con actualizaciones automáticas (Sparkle). Identificador com.trinitycommerce.clipmaker; las preferencias se migran solas.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.1.0/ClipMaker-1.1.0.zip" length="6001239" type="application/octet-stream" sparkle:edSignature="vmShozGGwJa/gYAoDV9KNKtPsWVRa8Ys6v1CgM78lziH2ugrghPh2mCvwxui4pxhqSpByHGLnoXtrzMjwRFwDQ=="/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,12 @@
+[
+  {
+    "version": "1.1.0",
+    "shortVersion": "1.1.0",
+    "minimumSystemVersion": "26.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.1.0/ClipMaker-1.1.0.zip",
+    "length": 6001239,
+    "signature": "vmShozGGwJa/gYAoDV9KNKtPsWVRa8Ys6v1CgM78lziH2ugrghPh2mCvwxui4pxhqSpByHGLnoXtrzMjwRFwDQ==",
+    "notes": "Primera versión con actualizaciones automáticas (Sparkle). Identificador com.trinitycommerce.clipmaker; las preferencias se migran solas.",
+    "pubDate": "Sun, 01 Nov 2026 19:34:59 +0000"
+  }
+]

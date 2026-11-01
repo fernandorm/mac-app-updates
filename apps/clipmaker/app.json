@@ -1,0 +1,9 @@
+{
+  "name": "ClipMaker",
+  "slug": "clipmaker",
+  "bundleId": "com.trinitycommerce.clipmaker",
+  "teamId": "KQMP2NUSS7",
+  "publicEDKey": "WZv0CdVR5x8TLuVfgK35DopnZi8eZGTHAtyM5s/jNPc=",
+  "minimumSystemVersion": "26.0",
+  "feedUrl": "https://raw.githubusercontent.com/fernandorm/mac-app-updates/main/apps/clipmaker/appcast.xml"
+}
