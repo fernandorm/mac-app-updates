@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>MyNewFile</title>
+    <item>
+      <title>MyNewFile 1.1.0</title>
+      <pubDate>Sun, 01 Nov 2026 19:42:09 +0000</pubDate>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Primera versión con actualizaciones automáticas (Sparkle). Tras instalarla, puede que haya que reactivar la extensión de Finder en Ajustes del Sistema.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mynewfile-v1.1.0/MyNewFile-1.1.0.zip" length="1793083" type="application/octet-stream" sparkle:edSignature="lkK2AcJZ4Wqmc9sloIIhiD4H6uuCIbodV+OOyKyb2fGJZLzmsKTmEbAtw4oYXBQQn13krjrBJJSzCmdxmCs9CA=="/>
+    </item>
+  </channel>
+</rss>

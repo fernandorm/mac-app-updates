@@ -1,0 +1,12 @@
+[
+  {
+    "version": "1.1.0",
+    "shortVersion": "1.1.0",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mynewfile-v1.1.0/MyNewFile-1.1.0.zip",
+    "length": 1793083,
+    "signature": "lkK2AcJZ4Wqmc9sloIIhiD4H6uuCIbodV+OOyKyb2fGJZLzmsKTmEbAtw4oYXBQQn13krjrBJJSzCmdxmCs9CA==",
+    "notes": "Primera versión con actualizaciones automáticas (Sparkle). Tras instalarla, puede que haya que reactivar la extensión de Finder en Ajustes del Sistema.",
+    "pubDate": "Sun, 01 Nov 2026 19:42:09 +0000"
+  }
+]

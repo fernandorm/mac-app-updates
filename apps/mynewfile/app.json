@@ -1,0 +1,9 @@
+{
+  "name": "MyNewFile",
+  "slug": "mynewfile",
+  "bundleId": "com.trinitycommerce.mynewfile",
+  "teamId": "KQMP2NUSS7",
+  "publicEDKey": "vGW2gG/em68ztsAZSVP6+tRbwemWWKPGXwDCpyM4xtY=",
+  "minimumSystemVersion": "14.0",
+  "feedUrl": "https://raw.githubusercontent.com/fernandorm/mac-app-updates/main/apps/mynewfile/appcast.xml"
+}
