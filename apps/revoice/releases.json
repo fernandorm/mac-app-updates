@@ -1,0 +1,12 @@
+[
+  {
+    "version": "1.1.0",
+    "shortVersion": "1.1.0",
+    "minimumSystemVersion": "15.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/revoice-v1.1.0/ReVoice-1.1.0.zip",
+    "length": 3267379,
+    "signature": "32cUv+QWGpjYv/Z/npne8KxzXfiaTe2NdR0JlX4p5IQl0M+BaRcISB//YxTlVEFeh2rQGYzMs36EhFtyjFujAg==",
+    "notes": "Primera versión con actualizaciones automáticas (Sparkle). Identificador com.trinitycommerce.revoice. El motor de Python sigue en el repositorio y se actualiza con git.",
+    "pubDate": "Sun, 01 Nov 2026 19:41:09 +0000"
+  }
+]

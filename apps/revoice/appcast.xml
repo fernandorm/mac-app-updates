@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>ReVoice</title>
+    <item>
+      <title>ReVoice 1.1.0</title>
+      <pubDate>Sun, 01 Nov 2026 19:41:09 +0000</pubDate>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Primera versión con actualizaciones automáticas (Sparkle). Identificador com.trinitycommerce.revoice. El motor de Python sigue en el repositorio y se actualiza con git.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/revoice-v1.1.0/ReVoice-1.1.0.zip" length="3267379" type="application/octet-stream" sparkle:edSignature="32cUv+QWGpjYv/Z/npne8KxzXfiaTe2NdR0JlX4p5IQl0M+BaRcISB//YxTlVEFeh2rQGYzMs36EhFtyjFujAg=="/>
+    </item>
+  </channel>
+</rss>

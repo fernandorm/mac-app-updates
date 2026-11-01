@@ -1,0 +1,9 @@
+{
+  "name": "ReVoice",
+  "slug": "revoice",
+  "bundleId": "com.trinitycommerce.revoice",
+  "teamId": "KQMP2NUSS7",
+  "publicEDKey": "lb1iiJGUt7SMCjpqZB6lCc3DM87clnSxKjp2tlF0wfs=",
+  "minimumSystemVersion": "15.0",
+  "feedUrl": "https://raw.githubusercontent.com/fernandorm/mac-app-updates/main/apps/revoice/appcast.xml"
+}
