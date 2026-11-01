@@ -128,6 +128,14 @@ done
 step "Actualizando el feed"
 python3 -I "$ROOT/tools/appcast.py" add --dir "$APP_DIR" --app-name "$APP_NAME" --version "$VERSION" --build "$BUILD" \
     --min-os "$MIN_OS" --url "$DOWNLOAD_URL" --length "$LENGTH" --signature "$SIGNATURE" --notes "$NOTES"
+# Identity used by installers (AgentsManager) to verify downloads: bundle ID, signing team, Sparkle public key.
+APP_NAME="$APP_NAME" SLUG="$SLUG" BUNDLE_ID="$(read_plist CFBundleIdentifier)" \
+TEAM_ID="$(echo "$SIGNATURE_INFO" | sed -n 's/^TeamIdentifier=//p')" PUBLIC_KEY="$APP_PUBLIC_KEY" MIN_OS="$MIN_OS" FEED_URL="$FEED_URL" \
+python3 -I -c 'import json, os, sys
+e = os.environ
+json.dump({"name": e["APP_NAME"], "slug": e["SLUG"], "bundleId": e["BUNDLE_ID"], "teamId": e["TEAM_ID"],
+           "publicEDKey": e["PUBLIC_KEY"], "minimumSystemVersion": e["MIN_OS"], "feedUrl": e["FEED_URL"]},
+          open(sys.argv[1], "w"), indent=2)' "$APP_DIR/app.json"
 (cd "$ROOT" && git add "apps/$SLUG" && git commit --quiet -m "$APP_NAME $VERSION" && git push --quiet)
 rm -rf "$WORK"
 

@@ -1,0 +1,9 @@
+{
+  "name": "MyPaste",
+  "slug": "mypaste",
+  "bundleId": "com.trinitycommerce.mypaste",
+  "teamId": "KQMP2NUSS7",
+  "publicEDKey": "JeDtpJr8ZtkWyA1hOcgRgpnWTmjH/haSZNyG3xfDCBg=",
+  "minimumSystemVersion": "14.0",
+  "feedUrl": "https://raw.githubusercontent.com/fernandorm/mac-app-updates/main/apps/mypaste/appcast.xml"
+}
