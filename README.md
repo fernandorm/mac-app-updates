@@ -21,7 +21,7 @@ tools/setup-sparkle.sh      descarga las herramientas oficiales de Sparkle (no s
 | ClipMaker | `clipmaker` | [`apps/clipmaker/appcast.xml`](apps/clipmaker/appcast.xml) |
 | ReCast | `recast` | [`apps/recast/appcast.xml`](apps/recast/appcast.xml) |
 | ReVoice | `revoice` | [`apps/revoice/appcast.xml`](apps/revoice/appcast.xml) (solo la app; el motor de Python vive en su repositorio) |
-| DubLocal | `dublocal` | [`apps/dublocal/appcast.xml`](apps/dublocal/appcast.xml) (solo la app; el motor de Python vive en su carpeta de proyecto) |
+| MyDublivo (antes DubLocal) | `mydublivo` | [`apps/mydublivo/appcast.xml`](apps/mydublivo/appcast.xml) (solo la app; el motor de Python vive en ~/Projects/MyDublivo/engine) |
 | MyNewFile | `mynewfile` | [`apps/mynewfile/appcast.xml`](apps/mynewfile/appcast.xml) (incluye la extensión de Finder) |
 | MyDato | `mydato` | [`apps/mydato/appcast.xml`](apps/mydato/appcast.xml) (app con sandbox: usa los servicios XPC de Sparkle) |
 
