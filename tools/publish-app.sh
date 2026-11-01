@@ -13,7 +13,7 @@ set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 SPARKLE_BIN="$ROOT/tools/sparkle/bin"
-NOTARY_PROFILE="${NOTARY_PROFILE:-mac-apps-notary}"
+NOTARY_PROFILE="${NOTARY_PROFILE:-ClipMaker}" # notarytool keychain profile for team KQMP2NUSS7
 APP_PATH="" SLUG="" NOTES="" DRY_RUN=0 SKIP_NOTARIZE=0
 
 while [ $# -gt 0 ]; do

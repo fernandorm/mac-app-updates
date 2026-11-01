@@ -22,9 +22,9 @@ tools/setup-sparkle.sh      descarga las herramientas oficiales de Sparkle (no s
 ## Requisitos en el Mac que publica (una sola vez)
 
 1. **Certificado Developer ID Application** en el llavero (`security find-identity -v -p codesigning`).
-2. **Perfil de notarización** guardado en el llavero. Usa una contraseña específica de app de appleid.apple.com y nunca la escribas en un archivo ni en un chat:
+2. **Perfil de notarización** en el llavero para el equipo KQMP2NUSS7. Se usa el perfil existente `ClipMaker` (cuenta fernandorm86@gmail.com); otro se elige con `NOTARY_PROFILE=nombre`. Para crear uno nuevo, con una contraseña específica de app de account.apple.com que nunca debe ir a un archivo ni a un chat:
    ```bash
-   xcrun notarytool store-credentials "mac-apps-notary" --apple-id "APPLE_ID" --team-id KQMP2NUSS7
+   xcrun notarytool store-credentials "NOMBRE" --apple-id "APPLE_ID" --team-id KQMP2NUSS7
    ```
 3. **`gh` autenticado** con permiso `repo` (`gh auth status`).
 4. **Herramientas de Sparkle:** `tools/setup-sparkle.sh`. `publish-app.sh` las descarga solo si faltan.
