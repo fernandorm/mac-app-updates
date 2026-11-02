@@ -1,0 +1,12 @@
+[
+  {
+    "version": "1.0.0",
+    "shortVersion": "1.0.0",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.0.0/MyMRemoteNG-1.0.0.zip",
+    "length": 2526849,
+    "signature": "tbljPGHFXncw31tsxDf3iPfzsSDZXUIdP1Rmc/kl7mTyAcOMJrs+Y1HBexEvBoJz3sxJN4jaZteoatKnHdBKAg==",
+    "notes": "Primera versión: archivos confCons.xml de mRemoteNG, sesiones SSH, Telnet, Raw, web y VNC/ARD en pestañas, RDP con Windows App.",
+    "pubDate": "Mon, 02 Nov 2026 22:08:49 +0000"
+  }
+]

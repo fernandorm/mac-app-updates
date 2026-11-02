@@ -1,0 +1,9 @@
+{
+  "name": "MyMRemoteNG",
+  "slug": "mymremoteng",
+  "bundleId": "com.trinitycommerce.mymremoteng",
+  "teamId": "KQMP2NUSS7",
+  "publicEDKey": "jFk5kRXXtHrLaErvwomoU0E5qXQZaiHE3neVjFAiY+U=",
+  "minimumSystemVersion": "14.0",
+  "feedUrl": "https://raw.githubusercontent.com/fernandorm/mac-app-updates/main/apps/mymremoteng/appcast.xml"
+}
