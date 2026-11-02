@@ -13,6 +13,7 @@ GitHub Releases             <slug>-vX.Y.Z → <App>-X.Y.Z.zip (la .app firmada, 
 tools/publish-app.sh        publica una versión (comprobaciones → notarización → ZIP → firma Sparkle → release → feed)
 tools/appcast.py            genera el feed
 tools/setup-sparkle.sh      descarga las herramientas oficiales de Sparkle (no se suben al repo)
+tools/copy-sparkle-key.sh   copia la clave privada de una app al portapapeles (copia de seguridad)
 ```
 
 | App | Slug | Feed |
@@ -41,7 +42,17 @@ No hay secretos en este repositorio. El certificado, la contraseña de notarizac
 
 ## Copia de seguridad de las claves de Sparkle (imprescindible)
 
-Si se pierde la clave privada de una app, las copias ya instaladas **no aceptarán ninguna actualización más** y habría que reinstalar a mano en cada Mac. Exporta la clave a un archivo, guárdalo en tu gestor de contraseñas y borra el archivo:
+Si se pierde la clave privada de una app, las copias ya instaladas **no aceptarán ninguna actualización más** y habría que reinstalar a mano en cada Mac.
+
+La forma más sencilla es copiarla al portapapeles y pegarla en tu gestor de contraseñas:
+
+```bash
+tools/copy-sparkle-key.sh mypaste        # el portapapeles se borra solo a los 60 s
+```
+
+Si usas un historial del portapapeles (Raycast, Paste, Maccy…), borra la clave de ese historial después.
+
+También puedes exportarla a un archivo, guardarlo y borrarlo:
 
 ```bash
 tools/sparkle/bin/generate_keys --account mypaste -x ~/Desktop/mypaste-sparkle-key.txt
