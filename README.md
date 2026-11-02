@@ -24,6 +24,7 @@ tools/setup-sparkle.sh      descarga las herramientas oficiales de Sparkle (no s
 | MyDublivo (antes DubLocal) | `mydublivo` | [`apps/mydublivo/appcast.xml`](apps/mydublivo/appcast.xml) (solo la app; el motor de Python vive en ~/Projects/MyDublivo/engine) |
 | MyNewFile | `mynewfile` | [`apps/mynewfile/appcast.xml`](apps/mynewfile/appcast.xml) (incluye la extensión de Finder) |
 | MyDato | `mydato` | [`apps/mydato/appcast.xml`](apps/mydato/appcast.xml) (app con sandbox: usa los servicios XPC de Sparkle) |
+| MyMRemoteNG | `mymremoteng` | [`apps/mymremoteng/appcast.xml`](apps/mymremoteng/appcast.xml) |
 
 ## Requisitos en el Mac que publica (una sola vez)
 
