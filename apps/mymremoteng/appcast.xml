@@ -3,6 +3,15 @@
   <channel>
     <title>MyMRemoteNG</title>
     <item>
+      <title>MyMRemoteNG 1.5.0</title>
+      <pubDate>Tue, 03 Nov 2026 19:58:40 +0000</pubDate>
+      <sparkle:version>1.5.0</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Ahora puedes copiar y pegar archivos y carpetas entre el Mac y Windows en las sesiones de Escritorio remoto: copia en el Finder con ⌘C y pega en Windows con ⌘V, o copia en Windows y pega en el Finder.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.5.0/MyMRemoteNG-1.5.0.zip" length="5843277" type="application/octet-stream" sparkle:edSignature="IW/555yw2ABcbmPcOf2lDUBYb0otNCrOaikv+b86DBVg04BoDnMWgcnqOurpsb4C45rBsq7f0drhE2FRKpx9AA=="/>
+    </item>
+    <item>
       <title>MyMRemoteNG 1.4.0</title>
       <pubDate>Tue, 03 Nov 2026 18:03:31 +0000</pubDate>
       <sparkle:version>1.4.0</sparkle:version>
