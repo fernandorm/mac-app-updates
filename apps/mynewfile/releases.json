@@ -7,7 +7,12 @@
     "length": 1793482,
     "signature": "rq88FDq3kepj7LKvBn2VxmNcusk5hKwGzjGk2C9TCEDUng9G/i/2+OR3HQenLfbVvh9zGxLBCTAU6WxCmLnsCw==",
     "notes": "Ahora puedes crear un archivo nuevo (New File) también al hacer clic derecho sobre un archivo seleccionado, no solo en el fondo de la carpeta. Nuevo instalador DMG para la primera instalación.",
-    "pubDate": "Tue, 03 Nov 2026 21:55:51 +0000"
+    "pubDate": "Tue, 03 Nov 2026 21:55:51 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mynewfile-v1.2.0/MyNewFile-1.2.0.dmg",
+      "length": 2570453,
+      "sha256": "7aa5667de18b55a404d9d3d7a866cf87348f6ddec9055729850063255aac23ee"
+    }
   },
   {
     "version": "1.1.0",
