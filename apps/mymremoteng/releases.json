@@ -7,7 +7,12 @@
     "length": 5856114,
     "signature": "zpAobs9oKbL8G0z8yy3pjcxcIW/O6VStir9k3I+fsM7ApDLHPP/lkBNV2VC1AhM6va3CjZCyo7wpQGDqwGy6AA==",
     "notes": "Ahora puedes arrastrar a Windows archivos que vienen de otras apps, como un zip de las descargas de Safari o Chrome o un adjunto de Mail, no solo los del Finder.",
-    "pubDate": "Tue, 03 Nov 2026 22:01:43 +0000"
+    "pubDate": "Tue, 03 Nov 2026 22:01:43 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.7.1/MyMRemoteNG-1.7.1.dmg",
+      "length": 7196324,
+      "sha256": "65aa8fe07669a8cae4e7e3b7a94c8b4bed1c75ee0e067e980d73a45bf329e534"
+    }
   },
   {
     "version": "1.7.0",
