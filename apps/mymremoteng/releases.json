@@ -7,7 +7,12 @@
     "length": 5843277,
     "signature": "IW/555yw2ABcbmPcOf2lDUBYb0otNCrOaikv+b86DBVg04BoDnMWgcnqOurpsb4C45rBsq7f0drhE2FRKpx9AA==",
     "notes": "Ahora puedes copiar y pegar archivos y carpetas entre el Mac y Windows en las sesiones de Escritorio remoto: copia en el Finder con ⌘C y pega en Windows con ⌘V, o copia en Windows y pega en el Finder.",
-    "pubDate": "Tue, 03 Nov 2026 19:58:40 +0000"
+    "pubDate": "Tue, 03 Nov 2026 19:58:40 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.5.0/MyMRemoteNG-1.5.0.dmg",
+      "length": 7185715,
+      "sha256": "8887ac31ce07234d0aa53afa463b6f616beed95714b0facdc3c945e7273661e5"
+    }
   },
   {
     "version": "1.4.0",
