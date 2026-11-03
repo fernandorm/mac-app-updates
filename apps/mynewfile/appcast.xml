@@ -3,6 +3,15 @@
   <channel>
     <title>MyNewFile</title>
     <item>
+      <title>MyNewFile 1.2.1</title>
+      <pubDate>Tue, 03 Nov 2026 22:09:16 +0000</pubDate>
+      <sparkle:version>1.2.1</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Los iconos del menú contextual de Finder ahora se ven bien en modo oscuro (antes salían negros).</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mynewfile-v1.2.1/MyNewFile-1.2.1.zip" length="1794905" type="application/octet-stream" sparkle:edSignature="kfG6wHfOGfbiLkkRhfP+51iOBmXhtDy2nUc+BsUBC/oRWlXBLsENKieu77gm69klSeUzXe1d6sRpfig/KzCIDQ=="/>
+    </item>
+    <item>
       <title>MyNewFile 1.2.0</title>
       <pubDate>Tue, 03 Nov 2026 21:55:51 +0000</pubDate>
       <sparkle:version>1.2.0</sparkle:version>
