@@ -67,6 +67,10 @@ def main():
     add.add_argument("--notes", default="")
     latest = sub.add_parser("latest")
     latest.add_argument("--dir", required=True)
+    # First-install DMG for an already published version (installers use it; Sparkle keeps the ZIP).
+    dmg = sub.add_parser("attach-dmg")
+    for name in ("dir", "build", "url", "length", "sha256"):
+        dmg.add_argument(f"--{name}", required=True)
     args = parser.parse_args()
 
     releases_path = os.path.join(args.dir, "releases.json")
@@ -75,6 +79,17 @@ def main():
     if args.command == "latest":
         if releases:
             print(releases[0]["version"])
+        return
+
+    if args.command == "attach-dmg":
+        release = next((r for r in releases if r["version"] == args.build), None)
+        if release is None:
+            sys.exit(f"La versión {args.build} no está en el feed.")
+        release["dmg"] = {"url": args.url, "length": int(args.length), "sha256": args.sha256}
+        tmp = releases_path + ".tmp"
+        with open(tmp, "w", encoding="utf-8") as f:
+            json.dump(releases, f, indent=2, ensure_ascii=False)
+        os.replace(tmp, releases_path)
         return
 
     if any(r["version"] == args.build for r in releases):

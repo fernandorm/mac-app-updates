@@ -9,9 +9,10 @@ Las apps no llevan ningún token: leen el feed y descargan los ZIP públicos.
 ```
 apps/<slug>/appcast.xml     feed de Sparkle (URL fija: raw.githubusercontent.com/fernandorm/mac-app-updates/main/apps/<slug>/appcast.xml)
 apps/<slug>/releases.json   historial de versiones (fuente de verdad del feed)
-GitHub Releases             <slug>-vX.Y.Z → <App>-X.Y.Z.zip (la .app firmada, notarizada y grapada)
+GitHub Releases             <slug>-vX.Y.Z → <App>-X.Y.Z.zip (la .app firmada, notarizada y grapada) y, si hay, <App>-X.Y.Z.dmg
 tools/publish-app.sh        publica una versión (comprobaciones → notarización → ZIP → firma Sparkle → release → feed)
 tools/appcast.py            genera el feed
+tools/attach-dmg.sh         adjunta a una versión ya publicada el DMG de primera instalación (lo usa AgentsManager)
 tools/setup-sparkle.sh      descarga las herramientas oficiales de Sparkle (no se suben al repo)
 tools/copy-sparkle-key.sh   copia la clave privada de una app al portapapeles (copia de seguridad)
 ```
