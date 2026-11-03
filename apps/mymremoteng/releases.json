@@ -7,7 +7,12 @@
     "length": 5831908,
     "signature": "cTsz8L2HcxDwrXWIjxc3alIDmWHH9VvjOLYNXn8UwVM9QRR3iZp1sH6z8v9rmf6NjxgwIVPicj6cZ8lXPGKfBA==",
     "notes": "Copy files to and from the remote computer in RDP sessions. Drop files onto the remote desktop to send them; on Windows they’re in \\\\tsclient\\Mac. Files you save there from Windows appear in Downloads › MyMRemoteNG (Session › Open Transfer Folder).",
-    "pubDate": "Tue, 03 Nov 2026 18:03:31 +0000"
+    "pubDate": "Tue, 03 Nov 2026 18:03:31 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.4.0/MyMRemoteNG-1.4.0.dmg",
+      "length": 7172754,
+      "sha256": "77c6f23ea0dc46c741fd0f08151bc9b10acc7d47cb3d54674038ef1114845a09"
+    }
   },
   {
     "version": "1.3.0",
