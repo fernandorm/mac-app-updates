@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.2.0",
+    "shortVersion": "1.2.0",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.2.0/MyMRemoteNG-1.2.0.zip",
+    "length": 5821111,
+    "signature": "21c/mpPPvrecmrYeeM+k3uheUi40+kWAvPLBiP69kCocftjVCHmb6D72/h9YEvEwGcjYIejd4sAfKwIsA/MIBA==",
+    "notes": "El panel de propiedades de la derecha se muestra u oculta con el botón de la barra (o ⌥⌘I) y la app recuerda cómo lo dejaste. Respeta el tema claro u oscuro del Mac: los iconos de conexiones y pestañas se ven blancos en modo oscuro y la terminal cambia de colores con el tema.",
+    "pubDate": "Tue, 03 Nov 2026 16:49:13 +0000"
+  },
+  {
     "version": "1.1.1",
     "shortVersion": "1.1.1",
     "minimumSystemVersion": "14.0",
