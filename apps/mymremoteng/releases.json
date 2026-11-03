@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.6.0",
+    "shortVersion": "1.6.0",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.6.0/MyMRemoteNG-1.6.0.zip",
+    "length": 5845487,
+    "signature": "K7YuH/TDafiURDB+PhSdHLhsb1LomyrcD2nYDLfSxz0vxFUOvYKKMqgkf5298FgicThrC9oBQXn8rJWt25mwBw==",
+    "notes": "Arrastra archivos o carpetas del Finder a una carpeta o al escritorio de Windows y se copian ahí directamente, sin tener que pulsar ⌘V.",
+    "pubDate": "Tue, 03 Nov 2026 21:12:42 +0000"
+  },
+  {
     "version": "1.5.1",
     "shortVersion": "1.5.1",
     "minimumSystemVersion": "14.0",

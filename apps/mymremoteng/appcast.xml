@@ -3,6 +3,15 @@
   <channel>
     <title>MyMRemoteNG</title>
     <item>
+      <title>MyMRemoteNG 1.6.0</title>
+      <pubDate>Tue, 03 Nov 2026 21:12:42 +0000</pubDate>
+      <sparkle:version>1.6.0</sparkle:version>
+      <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Arrastra archivos o carpetas del Finder a una carpeta o al escritorio de Windows y se copian ahí directamente, sin tener que pulsar ⌘V.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.6.0/MyMRemoteNG-1.6.0.zip" length="5845487" type="application/octet-stream" sparkle:edSignature="K7YuH/TDafiURDB+PhSdHLhsb1LomyrcD2nYDLfSxz0vxFUOvYKKMqgkf5298FgicThrC9oBQXn8rJWt25mwBw=="/>
+    </item>
+    <item>
       <title>MyMRemoteNG 1.5.1</title>
       <pubDate>Tue, 03 Nov 2026 21:06:34 +0000</pubDate>
       <sparkle:version>1.5.1</sparkle:version>
