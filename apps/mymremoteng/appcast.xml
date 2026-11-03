@@ -3,6 +3,15 @@
   <channel>
     <title>MyMRemoteNG</title>
     <item>
+      <title>MyMRemoteNG 1.1.0</title>
+      <pubDate>Tue, 03 Nov 2026 14:46:06 +0000</pubDate>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Escritorio remoto (RDP) integrado: las conexiones RDP se abren en una pestaña de la app, sin Windows App. Ajusta el tamaño a la ventana, copia y pega texto, pide la contraseña si falta y usa ⌘ como Ctrl (⌘C, ⌘V).</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.1.0/MyMRemoteNG-1.1.0.zip" length="5812128" type="application/octet-stream" sparkle:edSignature="cvzfuQH2R6zSNmDsBIguCx8kPtLGwryAbx2Td2ZweS0i3waonij1tzJAxPo77wAMFb+NpxNi4ZDrkWNqbS0VAg=="/>
+    </item>
+    <item>
       <title>MyMRemoteNG 1.0.0</title>
       <pubDate>Mon, 02 Nov 2026 22:08:49 +0000</pubDate>
       <sparkle:version>1.0.0</sparkle:version>
