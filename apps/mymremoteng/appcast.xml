@@ -3,6 +3,15 @@
   <channel>
     <title>MyMRemoteNG</title>
     <item>
+      <title>MyMRemoteNG 1.7.0</title>
+      <pubDate>Tue, 03 Nov 2026 21:17:22 +0000</pubDate>
+      <sparkle:version>1.7.0</sparkle:version>
+      <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Al cerrar la pestaña de un Escritorio remoto también se cierra la sesión de Windows, en lugar de dejarla abierta en el servidor. Puedes desactivarlo en el menú Session › Sign Out of Windows When Closing a Tab.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.7.0/MyMRemoteNG-1.7.0.zip" length="5851504" type="application/octet-stream" sparkle:edSignature="0qGMZuHsC4pvkgzGq9dUCF7/202PyRD09CFRiNzkmn0E74XfjsbL8cggkVm1j36zpLZ9oU+IHfGHAC4TfNKNDw=="/>
+    </item>
+    <item>
       <title>MyMRemoteNG 1.6.0</title>
       <pubDate>Tue, 03 Nov 2026 21:12:42 +0000</pubDate>
       <sparkle:version>1.6.0</sparkle:version>

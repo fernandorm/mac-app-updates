@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.7.0",
+    "shortVersion": "1.7.0",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.7.0/MyMRemoteNG-1.7.0.zip",
+    "length": 5851504,
+    "signature": "0qGMZuHsC4pvkgzGq9dUCF7/202PyRD09CFRiNzkmn0E74XfjsbL8cggkVm1j36zpLZ9oU+IHfGHAC4TfNKNDw==",
+    "notes": "Al cerrar la pestaña de un Escritorio remoto también se cierra la sesión de Windows, en lugar de dejarla abierta en el servidor. Puedes desactivarlo en el menú Session › Sign Out of Windows When Closing a Tab.",
+    "pubDate": "Tue, 03 Nov 2026 21:17:22 +0000"
+  },
+  {
     "version": "1.6.0",
     "shortVersion": "1.6.0",
     "minimumSystemVersion": "14.0",
