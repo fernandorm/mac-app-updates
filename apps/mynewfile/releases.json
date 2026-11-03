@@ -7,7 +7,12 @@
     "length": 1794905,
     "signature": "kfG6wHfOGfbiLkkRhfP+51iOBmXhtDy2nUc+BsUBC/oRWlXBLsENKieu77gm69klSeUzXe1d6sRpfig/KzCIDQ==",
     "notes": "Los iconos del menú contextual de Finder ahora se ven bien en modo oscuro (antes salían negros).",
-    "pubDate": "Tue, 03 Nov 2026 22:09:16 +0000"
+    "pubDate": "Tue, 03 Nov 2026 22:09:16 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mynewfile-v1.2.1/MyNewFile-1.2.1.dmg",
+      "length": 2571983,
+      "sha256": "c103a8146e22d7b2837e420297f2f11c8450edab9084aaf83170e1a8cdb3236b"
+    }
   },
   {
     "version": "1.2.0",
