@@ -3,6 +3,15 @@
   <channel>
     <title>MyPaste</title>
     <item>
+      <title>MyPaste 1.2.0</title>
+      <pubDate>Tue, 03 Nov 2026 16:09:04 +0000</pubDate>
+      <sparkle:version>1.2.0</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>La interfaz de MyPaste ahora está en inglés: menús, ajustes, panel, pila de pegado y bienvenida.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mypaste-v1.2.0/MyPaste-1.2.0.zip" length="2362567" type="application/octet-stream" sparkle:edSignature="Bi4ZByyyVzh1G42FKfF+XJSXEO4p4Gc5h8QhcPC/RwkZYuJggXQDzUGj75eJTuv2eNf7uuR4/j0aUtk3lElnBg=="/>
+    </item>
+    <item>
       <title>MyPaste 1.1.1</title>
       <pubDate>Sun, 01 Nov 2026 15:46:30 +0000</pubDate>
       <sparkle:version>1.1.1</sparkle:version>
