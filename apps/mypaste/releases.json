@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.2.1",
+    "shortVersion": "1.2.1",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mypaste-v1.2.1/MyPaste-1.2.1.zip",
+    "length": 2362556,
+    "signature": "z9sPlQAyR3Ef6mZNFjHI9NTCxS1atkcWzdLB0PdLEm9gR7xPXCDiqpKwmPT9tTOxnvfesVfvlqK46sn676h0Dg==",
+    "notes": "Sin cambios en la app. Ahora también hay un instalador DMG para instalarla por primera vez.",
+    "pubDate": "Tue, 03 Nov 2026 21:54:21 +0000"
+  },
+  {
     "version": "1.2.0",
     "shortVersion": "1.2.0",
     "minimumSystemVersion": "14.0",
