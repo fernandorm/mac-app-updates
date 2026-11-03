@@ -7,7 +7,12 @@
     "length": 5843986,
     "signature": "G1qGSif6YLN366l3PkhDXXNl7f+zciX1F9Xe3NCHV0nrwyfVkV/BFIFWlQqN6NBLR8LL3AmqFWBo505sqSswBw==",
     "notes": "Windows ya no muestra la unidad compartida «Mac» al conectar: los archivos se pasan copiando y pegando (⌘C y ⌘V). Si arrastras archivos a la sesión, quedan listos para pegarlos con ⌘V en la carpeta de Windows que quieras. La carpeta compartida sigue disponible en el menú Session.",
-    "pubDate": "Tue, 03 Nov 2026 21:06:34 +0000"
+    "pubDate": "Tue, 03 Nov 2026 21:06:34 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.5.1/MyMRemoteNG-1.5.1.dmg",
+      "length": 7186006,
+      "sha256": "c47763f02776676e0691765cfe89eea7c86b4eaa8384c8ff54ef610767cb0b6d"
+    }
   },
   {
     "version": "1.5.0",
