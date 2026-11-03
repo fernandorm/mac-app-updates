@@ -3,6 +3,15 @@
   <channel>
     <title>MyMRemoteNG</title>
     <item>
+      <title>MyMRemoteNG 1.5.1</title>
+      <pubDate>Tue, 03 Nov 2026 21:06:34 +0000</pubDate>
+      <sparkle:version>1.5.1</sparkle:version>
+      <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Windows ya no muestra la unidad compartida «Mac» al conectar: los archivos se pasan copiando y pegando (⌘C y ⌘V). Si arrastras archivos a la sesión, quedan listos para pegarlos con ⌘V en la carpeta de Windows que quieras. La carpeta compartida sigue disponible en el menú Session.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.5.1/MyMRemoteNG-1.5.1.zip" length="5843986" type="application/octet-stream" sparkle:edSignature="G1qGSif6YLN366l3PkhDXXNl7f+zciX1F9Xe3NCHV0nrwyfVkV/BFIFWlQqN6NBLR8LL3AmqFWBo505sqSswBw=="/>
+    </item>
+    <item>
       <title>MyMRemoteNG 1.5.0</title>
       <pubDate>Tue, 03 Nov 2026 19:58:40 +0000</pubDate>
       <sparkle:version>1.5.0</sparkle:version>
