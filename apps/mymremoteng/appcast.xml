@@ -3,6 +3,15 @@
   <channel>
     <title>MyMRemoteNG</title>
     <item>
+      <title>MyMRemoteNG 1.1.1</title>
+      <pubDate>Tue, 03 Nov 2026 16:25:19 +0000</pubDate>
+      <sparkle:version>1.1.1</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Arregla la conexión a escritorios remotos de Windows que piden autenticación de red (NLA): ya no sale «No se pudo conectar con el servidor». Los mensajes de error muestran también el código técnico.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.1.1/MyMRemoteNG-1.1.1.zip" length="5815992" type="application/octet-stream" sparkle:edSignature="cIAKr8Mp+8Xf7pfKH8EoEExvgSCSAf8nuNEFqLvNon99gEcFswgCla9iCv+Be5+Y8aBlKaCUZXkEWaDeFk1ZAQ=="/>
+    </item>
+    <item>
       <title>MyMRemoteNG 1.1.0</title>
       <pubDate>Tue, 03 Nov 2026 14:46:06 +0000</pubDate>
       <sparkle:version>1.1.0</sparkle:version>

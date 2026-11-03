@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.1.1",
+    "shortVersion": "1.1.1",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.1.1/MyMRemoteNG-1.1.1.zip",
+    "length": 5815992,
+    "signature": "cIAKr8Mp+8Xf7pfKH8EoEExvgSCSAf8nuNEFqLvNon99gEcFswgCla9iCv+Be5+Y8aBlKaCUZXkEWaDeFk1ZAQ==",
+    "notes": "Arregla la conexión a escritorios remotos de Windows que piden autenticación de red (NLA): ya no sale «No se pudo conectar con el servidor». Los mensajes de error muestran también el código técnico.",
+    "pubDate": "Tue, 03 Nov 2026 16:25:19 +0000"
+  },
+  {
     "version": "1.1.0",
     "shortVersion": "1.1.0",
     "minimumSystemVersion": "14.0",
