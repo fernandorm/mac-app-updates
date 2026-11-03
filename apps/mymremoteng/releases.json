@@ -7,7 +7,12 @@
     "length": 5819848,
     "signature": "/218bBefGYxGUlyOFw7t7UhswJYvaMsn/ZJLMVc9HSAO4MMgC3ukaC3MVEzX15EcKxwhkM9fbFxsl9tZOzc1Ag==",
     "notes": "The app is now fully in English. New installer: a DMG that asks you to drag MyMRemoteNG to the Applications folder.",
-    "pubDate": "Tue, 03 Nov 2026 16:59:01 +0000"
+    "pubDate": "Tue, 03 Nov 2026 16:59:01 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.3.0/MyMRemoteNG-1.3.0.dmg",
+      "length": 7157743,
+      "sha256": "c830a410d2c98602890b32c602952d66943ea016ebc50d46b6bc6863403a5067"
+    }
   },
   {
     "version": "1.2.0",
