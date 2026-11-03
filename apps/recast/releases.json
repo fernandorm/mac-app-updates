@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.2.0",
+    "shortVersion": "1.2.0",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/recast-v1.2.0/ReCast-1.2.0.zip",
+    "length": 4147066,
+    "signature": "LWdbJRs5OiAFUKWFwkl4AKAkCZ6uQXRJ/bIlCyqSS40D2roLVDqLb8wwYAKzDhvvMBdCSaQ3RCQbKDFfWsmQDQ==",
+    "notes": "Revisión diaria a las 18:00 con informe por Telegram (permisos, llavero, Páginas y tokens, Auto Live). Auto Live sigue un directo iniciado a mano sin abrir otro reproductor ni mover la captura, y reutiliza el reproductor al reintentar. Las ventanas del reproductor se cierran, mueven y traen al frente a través del Chrome que las tiene. Aviso por Telegram si el directo pasa 30 s sin audio.",
+    "pubDate": "Tue, 03 Nov 2026 06:17:52 +0000"
+  },
+  {
     "version": "1.1.0",
     "shortVersion": "1.1.0",
     "minimumSystemVersion": "14.0",

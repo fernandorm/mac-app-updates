@@ -3,6 +3,15 @@
   <channel>
     <title>ReCast</title>
     <item>
+      <title>ReCast 1.2.0</title>
+      <pubDate>Tue, 03 Nov 2026 06:17:52 +0000</pubDate>
+      <sparkle:version>1.2.0</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Revisión diaria a las 18:00 con informe por Telegram (permisos, llavero, Páginas y tokens, Auto Live). Auto Live sigue un directo iniciado a mano sin abrir otro reproductor ni mover la captura, y reutiliza el reproductor al reintentar. Las ventanas del reproductor se cierran, mueven y traen al frente a través del Chrome que las tiene. Aviso por Telegram si el directo pasa 30 s sin audio.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/recast-v1.2.0/ReCast-1.2.0.zip" length="4147066" type="application/octet-stream" sparkle:edSignature="LWdbJRs5OiAFUKWFwkl4AKAkCZ6uQXRJ/bIlCyqSS40D2roLVDqLb8wwYAKzDhvvMBdCSaQ3RCQbKDFfWsmQDQ=="/>
+    </item>
+    <item>
       <title>ReCast 1.1.0</title>
       <pubDate>Sun, 01 Nov 2026 19:40:17 +0000</pubDate>
       <sparkle:version>1.1.0</sparkle:version>
