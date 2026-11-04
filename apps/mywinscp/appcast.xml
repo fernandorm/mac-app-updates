@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>MyWinSCP</title>
+    <item>
+      <title>MyWinSCP 1.1.0</title>
+      <pubDate>Wed, 04 Nov 2026 01:09:19 +0000</pubDate>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Primera versión publicada de MyWinSCP: cliente SFTP/FTP/FTPS inspirado en WinSCP. Incluye instalador DMG y sigue el tema claro u oscuro del sistema.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mywinscp-v1.1.0/MyWinSCP-1.1.0.zip" length="7943833" type="application/octet-stream" sparkle:edSignature="x3uLOvGwXt0Ar5bxustU6slO/g1s520lM8J3qGLVx8+PoCZcv8kubCOKoRhDOo5C0POGqaqtzQNR7dBuJqPACQ=="/>
+    </item>
+  </channel>
+</rss>

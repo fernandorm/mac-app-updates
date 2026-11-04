@@ -1,0 +1,9 @@
+{
+  "name": "MyWinSCP",
+  "slug": "mywinscp",
+  "bundleId": "com.trinitycommerce.mywinscp",
+  "teamId": "KQMP2NUSS7",
+  "publicEDKey": "X2amL3g2Fb4emSq8L18Q5zqKsU/mJxdndmVffffel6o=",
+  "minimumSystemVersion": "14.0",
+  "feedUrl": "https://raw.githubusercontent.com/fernandorm/mac-app-updates/main/apps/mywinscp/appcast.xml"
+}
