@@ -7,7 +7,12 @@
     "length": 7973119,
     "signature": "OhpO1t7oQsx77MVtiIE477SCaaZKFqYe/jlbMAOFfbetMy6JW43HAESvgNzcVLNWbpCXLNcBojRLDmy1lXS7DQ==",
     "notes": "La app pasa a estar completamente en inglés: menús, ventanas, avisos, registro y el instalador DMG. Los sitios guardados se conservan.",
-    "pubDate": "Wed, 04 Nov 2026 13:27:41 +0000"
+    "pubDate": "Wed, 04 Nov 2026 13:27:41 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mywinscp-v1.3.0/MyWinSCP-1.3.0.dmg",
+      "length": 9581598,
+      "sha256": "0ab25a7931b9a22d60366976379d34f8e93c5442b5f2128be3420fc6692311d4"
+    }
   },
   {
     "version": "1.2.0",
