@@ -1,5 +1,15 @@
 [
   {
+    "version": "0.2.1",
+    "shortVersion": "0.2.1",
+    "minimumSystemVersion": "15.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mydublivo-v0.2.1/MyDublivo-0.2.1.zip",
+    "length": 1910010,
+    "signature": "DnmBO4s9jTiSaoBuWD3KKPuufYRGzPcC0tA3ePYst1eTgmi1gNfVmVb0U0Q52y1fAXDxAPaiwUNR7qDuBAXbAQ==",
+    "notes": "The update window is now always in English.",
+    "pubDate": "Wed, 04 Nov 2026 19:25:17 +0000"
+  },
+  {
     "version": "0.2.0",
     "shortVersion": "0.2.0",
     "minimumSystemVersion": "15.0",
