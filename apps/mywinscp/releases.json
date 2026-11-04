@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.4.3",
+    "shortVersion": "1.4.3",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mywinscp-v1.4.3/MyWinSCP-1.4.3.zip",
+    "length": 7873226,
+    "signature": "7pFHluQ2eLNRdUxDPMeTjmLD1gOdo7ArkpDN0777pnIoo3lL5NMo9an4MP22/r+wSzmX5TAhq42nJbmay05rCQ==",
+    "notes": "Uploading from the Mac to SFTP servers that don't allow renaming files (GoAnywhere, MOVEit and similar) now works. Existing files are no longer deleted before the new copy is complete. The update window is now in English.",
+    "pubDate": "Wed, 04 Nov 2026 18:42:35 +0000"
+  },
+  {
     "version": "1.4.2",
     "shortVersion": "1.4.2",
     "minimumSystemVersion": "14.0",

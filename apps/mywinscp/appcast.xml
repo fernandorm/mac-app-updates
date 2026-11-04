@@ -3,6 +3,15 @@
   <channel>
     <title>MyWinSCP</title>
     <item>
+      <title>MyWinSCP 1.4.3</title>
+      <pubDate>Wed, 04 Nov 2026 18:42:35 +0000</pubDate>
+      <sparkle:version>1.4.3</sparkle:version>
+      <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Uploading from the Mac to SFTP servers that don't allow renaming files (GoAnywhere, MOVEit and similar) now works. Existing files are no longer deleted before the new copy is complete. The update window is now in English.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mywinscp-v1.4.3/MyWinSCP-1.4.3.zip" length="7873226" type="application/octet-stream" sparkle:edSignature="7pFHluQ2eLNRdUxDPMeTjmLD1gOdo7ArkpDN0777pnIoo3lL5NMo9an4MP22/r+wSzmX5TAhq42nJbmay05rCQ=="/>
+    </item>
+    <item>
       <title>MyWinSCP 1.4.2</title>
       <pubDate>Wed, 04 Nov 2026 16:35:13 +0000</pubDate>
       <sparkle:version>1.4.2</sparkle:version>
