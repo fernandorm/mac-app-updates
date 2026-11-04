@@ -7,7 +7,12 @@
     "length": 7984533,
     "signature": "Ia0aERb4en6lpTxkWyRv3hHWExv6QfjE1ITDCZq/fYWvFpQjsh++0xvzKBXamBH4hdYO1Aa9HpuToywwa7roAA==",
     "notes": "Arreglado: el botón New Site no hacía nada; ahora vacía el formulario para crear un sitio nuevo.",
-    "pubDate": "Wed, 04 Nov 2026 14:39:54 +0000"
+    "pubDate": "Wed, 04 Nov 2026 14:39:54 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mywinscp-v1.4.1/MyWinSCP-1.4.1.dmg",
+      "length": 9597062,
+      "sha256": "94629d89de72cd08555d0136ec995197761fe37d67946745818ea9275bea3992"
+    }
   },
   {
     "version": "1.4.0",
