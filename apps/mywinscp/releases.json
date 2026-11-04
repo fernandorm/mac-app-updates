@@ -7,7 +7,12 @@
     "length": 7985541,
     "signature": "HI1M76Ga5bJ2aweKxSjbZv89apQhlzKO9wfzZpAfNaWnKaEUdKPsbCkTVfqeKzG43UXZEEjGVWCo+JHLDmyyDg==",
     "notes": "Ahora conecta con servidores SFTP corporativos (AWS Transfer, GoAnywhere, MOVEit) que antes fallaban con un error de negociación SSH.",
-    "pubDate": "Wed, 04 Nov 2026 16:35:13 +0000"
+    "pubDate": "Wed, 04 Nov 2026 16:35:13 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mywinscp-v1.4.2/MyWinSCP-1.4.2.dmg",
+      "length": 9598429,
+      "sha256": "98b6e3d2be8deaf9a85979412cb14e1953995cbf223d8e83dbeaa3f0d296904f"
+    }
   },
   {
     "version": "1.4.1",
