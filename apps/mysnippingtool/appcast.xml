@@ -3,6 +3,15 @@
   <channel>
     <title>MySnippingTool</title>
     <item>
+      <title>MySnippingTool 1.4.1</title>
+      <pubDate>Wed, 04 Nov 2026 20:00:08 +0000</pubDate>
+      <sparkle:version>1.4.1</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The update window is now always in English.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.4.1/MySnippingTool-1.4.1.zip" length="2300988" type="application/octet-stream" sparkle:edSignature="tHi3XK59rJPb8CGagssnlyBs8ToksxCw8TdHmvjqZxMe5Ns2+EC9/vjtAxBpN+HA0DyzL7nEIH/eBOV2um/RAg=="/>
+    </item>
+    <item>
       <title>MySnippingTool 1.4.0</title>
       <pubDate>Wed, 04 Nov 2026 05:40:53 +0000</pubDate>
       <sparkle:version>1.4.0</sparkle:version>
