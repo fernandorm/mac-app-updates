@@ -7,6 +7,11 @@
     "length": 2387531,
     "signature": "1nc8rKmFthy/QUJIzs0zGmpQtQk4ghJkfu/6Joeo+ZM6iXjXmeD/6dL6iVfdz90vsaIFlg0qcvVbPiLflgf5AA==",
     "notes": "Primera versión: capturas de área, ventana, pantalla completa y con desplazamiento; editor con anotaciones; copiar texto (OCR); cuentagotas; capturas ancladas",
-    "pubDate": "Wed, 04 Nov 2026 04:30:28 +0000"
+    "pubDate": "Wed, 04 Nov 2026 04:30:28 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.0.0/MySnippingTool-1.0.0.dmg",
+      "length": 3910117,
+      "sha256": "c2f4b145f667978fa01d39ec02f27db6b3e687025dde920d4ffbda906958cd47"
+    }
   }
 ]
