@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.2.1",
+    "shortVersion": "1.2.1",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/recast-v1.2.1/ReCast-1.2.1.zip",
+    "length": 4032466,
+    "signature": "u+oTOPYTGXttxJ6RxXyg6wJQ/RFvjBAPoralufBjVfnjg/NVT7udk1MKdq2ZmpzhgV+hNfYikjIqiHViwGnuCg==",
+    "notes": "The update window is now always in English.",
+    "pubDate": "Wed, 04 Nov 2026 20:23:42 +0000"
+  },
+  {
     "version": "1.2.0",
     "shortVersion": "1.2.0",
     "minimumSystemVersion": "14.0",
