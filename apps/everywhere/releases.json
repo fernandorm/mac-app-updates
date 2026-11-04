@@ -7,7 +7,12 @@
     "length": 2700188,
     "signature": "VHMtDybgQ0Hbp5HbI5xgbUikPWYfHoy2plVVZFoU/HD/ub9DfOx0dJ4KjHWuoZwXbmokPrdor6dMzYIqzCBvAA==",
     "notes": "Nuevo: elige cualquier atajo para abrir Everywhere en Settings › General (por defecto ⌥Space), visible también en el menú de la barra. Google Drive, Dropbox y OneDrive (~/Library/CloudStorage) quedan fuera del índice por defecto porque cada listado va por la red; puedes incluirlos en Settings › Exclude.",
-    "pubDate": "Wed, 04 Nov 2026 04:20:33 +0000"
+    "pubDate": "Wed, 04 Nov 2026 04:20:33 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.1.0/Everywhere-1.1.0.dmg",
+      "length": 4490385,
+      "sha256": "d47475b09710d480a05c0801ea5a0d2d5fc543f912e21de052926e58ea3fa587"
+    }
   },
   {
     "version": "1.0.2",
