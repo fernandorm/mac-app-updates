@@ -7,7 +7,12 @@
     "length": 2661785,
     "signature": "X4GZmKG278IxaeTH2M8wuQo9KnKGLSlGpzrkf/stMyWeTli2SRl+G6KujnOyIsNQzLLVrQi6LdO0OqvbRM7ODg==",
     "notes": "The update window is now always in English.",
-    "pubDate": "Wed, 04 Nov 2026 19:08:56 +0000"
+    "pubDate": "Wed, 04 Nov 2026 19:08:56 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.3.1/Everywhere-1.3.1.dmg",
+      "length": 4503424,
+      "sha256": "fce25f2abaaccd1b56a005008156ece800f7627dbe1fda685e835f4af7a34b72"
+    }
   },
   {
     "version": "1.3.0",
