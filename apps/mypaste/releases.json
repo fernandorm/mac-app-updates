@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.4.0",
+    "shortVersion": "1.4.0",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mypaste-v1.4.0/MyPaste-1.4.0.zip",
+    "length": 2475236,
+    "signature": "eck1CLm+onvt/QrmP9OZFJfWua/bz87G/AlaceT53i4CI1lQD+YnQSJ4rGWnVtvPmVrXJQ6g+8kF/JmtMvXQAQ==",
+    "notes": "Nuevo: «Editar en MySnippingTool» en las imágenes del historial (menú contextual y botón de lápiz en la tarjeta) cuando MySnippingTool está instalado.",
+    "pubDate": "Wed, 04 Nov 2026 05:42:48 +0000"
+  },
+  {
     "version": "1.3.0",
     "shortVersion": "1.3.0",
     "minimumSystemVersion": "14.0",
