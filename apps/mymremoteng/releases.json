@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.9.0",
+    "shortVersion": "1.9.0",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.9.0/MyMRemoteNG-1.9.0.zip",
+    "length": 5960627,
+    "signature": "jR6KMzUHLzbA3NtlFk6OZYZMD56i4KXudr04E51EnxoPo5i/jYaINIOHQBevrdEf6KxgQr9zL6GYBt2y3SuQCA==",
+    "notes": "El escritorio remoto va más fluido: solo se redibuja lo que cambia. Puedes usar el micrófono del Mac («Redirect Microphone») e imprimir en las impresoras del Mac («Redirect Printers») desde Windows. Al salir con sesiones abiertas la app pregunta antes, y ⌘W en el escritorio remoto ahora es Ctrl+W de Windows (⇧⌘W cierra la pestaña). Nuevo Session › Reconnect All y registro de sesiones SSH y Telnet en texto (Session › Log Terminal Sessions). Los túneles SSH ya no quedan abiertos si la app se cierra de golpe.",
+    "pubDate": "Wed, 04 Nov 2026 05:44:52 +0000"
+  },
+  {
     "version": "1.8.0",
     "shortVersion": "1.8.0",
     "minimumSystemVersion": "14.0",
