@@ -7,7 +7,12 @@
     "length": 5932733,
     "signature": "ypuotu7ig2gwSz4RvDkKXzQUme+ozYF0RiHssrU8wlYujLqS+MJAgFpkmma+FZSafZNZIr5YWljNeH9DvXJjCw==",
     "notes": "Escritorio remoto más nítido en pantallas Retina, con el cursor de Windows y sonido (si la conexión tiene «Sound: Play on This Mac»). Si se corta la red, la sesión se reconecta sola. Pegar archivos grandes de Windows muestra una barra de progreso y ya no congela la app. Nuevo menú Session › Send to Windows (Ctrl+Alt+Supr, Win+L…) y ⌘Q también cierra la sesión de Windows. VNC más rápido en redes lentas (Tight y ZRLE). Las conexiones con «SSH Tunnel» se abren a través de esa conexión SSH. Pantalla completa oculta la barra lateral y el inspector, y las actualizaciones se instalan solas.",
-    "pubDate": "Wed, 04 Nov 2026 03:39:33 +0000"
+    "pubDate": "Wed, 04 Nov 2026 03:39:33 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.8.0/MyMRemoteNG-1.8.0.dmg",
+      "length": 7280899,
+      "sha256": "805c256a6e2623c76868eb5f2ca37c875edea1db076206c590d12b7e38fc8f7d"
+    }
   },
   {
     "version": "1.7.1",
