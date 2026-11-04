@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.0.1",
+    "shortVersion": "1.0.1",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.0.1/Everywhere-1.0.1.zip",
+    "length": 2688510,
+    "signature": "k2ntmAzW8d+CAp0OGgi22NXN22SgHJXV9nfqoyDq4LPJnyHlgsjJMccA8gGQRja7U190SEc9/BrBXwHFY6xUDg==",
+    "notes": "Everywhere ya aparece en Ajustes del Sistema › Privacidad › Acceso total al disco para poder activarlo, y la bienvenida explica cómo añadirlo si falta.",
+    "pubDate": "Wed, 04 Nov 2026 04:12:12 +0000"
+  },
+  {
     "version": "1.0.0",
     "shortVersion": "1.0.0",
     "minimumSystemVersion": "14.0",
