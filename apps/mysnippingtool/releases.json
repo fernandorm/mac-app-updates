@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.4.0",
+    "shortVersion": "1.4.0",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.4.0/MySnippingTool-1.4.0.zip",
+    "length": 2416717,
+    "signature": "WEkUw3DxjHWM3Ml4uKFIGPWUwSSBKiwWU+27suoMv3mGqx8Gf2EbfnMEG7q2ZLkMhci84VnzTg7MCa1tznunBA==",
+    "notes": "Ahora puedes abrir imágenes en el editor desde otras apps: con «Abrir con» en Finder o con «Editar en MySnippingTool» en MyPaste.",
+    "pubDate": "Wed, 04 Nov 2026 05:40:53 +0000"
+  },
+  {
     "version": "1.3.0",
     "shortVersion": "1.3.0",
     "minimumSystemVersion": "14.0",
