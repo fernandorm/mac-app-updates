@@ -1,0 +1,9 @@
+{
+  "name": "MySnippingTool",
+  "slug": "mysnippingtool",
+  "bundleId": "com.trinitycommerce.mysnippingtool",
+  "teamId": "KQMP2NUSS7",
+  "publicEDKey": "wxlM3arkiws6QriSe95ng+Lcux8KARD0YYyw8WCgP5I=",
+  "minimumSystemVersion": "14.0",
+  "feedUrl": "https://raw.githubusercontent.com/fernandorm/mac-app-updates/main/apps/mysnippingtool/appcast.xml"
+}

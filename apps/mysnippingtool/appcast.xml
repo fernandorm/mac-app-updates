@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>MySnippingTool</title>
+    <item>
+      <title>MySnippingTool 1.0.0</title>
+      <pubDate>Wed, 04 Nov 2026 04:30:28 +0000</pubDate>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Primera versión: capturas de área, ventana, pantalla completa y con desplazamiento; editor con anotaciones; copiar texto (OCR); cuentagotas; capturas ancladas</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.0.0/MySnippingTool-1.0.0.zip" length="2387531" type="application/octet-stream" sparkle:edSignature="1nc8rKmFthy/QUJIzs0zGmpQtQk4ghJkfu/6Joeo+ZM6iXjXmeD/6dL6iVfdz90vsaIFlg0qcvVbPiLflgf5AA=="/>
+    </item>
+  </channel>
+</rss>
