@@ -7,7 +7,12 @@
     "length": 2360503,
     "signature": "eJJESTgkkKr8GYVfGrNOxtVmPhfqKJETXN7X1BEQtc0F6inGL30UtvFQj+dR8byYDVsc6Zf9WUOP0F/sG72jBA==",
     "notes": "The update window is now always in English.",
-    "pubDate": "Wed, 04 Nov 2026 19:51:21 +0000"
+    "pubDate": "Wed, 04 Nov 2026 19:51:21 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mypaste-v1.4.1/MyPaste-1.4.1.dmg",
+      "length": 3751651,
+      "sha256": "44dee1c86f8d64ad5afc729fcfdbafcdb174d304eaf259f1fefb2e5c95bbd99f"
+    }
   },
   {
     "version": "1.4.0",
