@@ -3,6 +3,15 @@
   <channel>
     <title>MyPaste</title>
     <item>
+      <title>MyPaste 1.3.0</title>
+      <pubDate>Wed, 04 Nov 2026 03:36:53 +0000</pubDate>
+      <sparkle:version>1.3.0</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Carrusel con flechas y puntos para avanzar con un clic. Búsqueda más inteligente: ordena por relevancia, tolera erratas y resalta lo encontrado (también el texto de las imágenes). Editar un texto antes de pegarlo y transformarlo (mayúsculas, enlace sin rastreo, JSON…). Pinboards con color, orden manual y atajos ⌥1–9. Exportar e importar el historial. Las actualizaciones ahora se instalan solas cuando no usas el Mac.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mypaste-v1.3.0/MyPaste-1.3.0.zip" length="2473102" type="application/octet-stream" sparkle:edSignature="Fz4GsJ8V6SVJ7mic8JfCRtAj83tuJUN8WXOMLSHjH1znsfveuK/mRUfCWB8twpwd/oH5hJcCFMv+IbSxE4ziCQ=="/>
+    </item>
+    <item>
       <title>MyPaste 1.2.1</title>
       <pubDate>Tue, 03 Nov 2026 21:54:21 +0000</pubDate>
       <sparkle:version>1.2.1</sparkle:version>
