@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.1.1",
+    "shortVersion": "1.1.1",
+    "minimumSystemVersion": "15.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/revoice-v1.1.1/ReVoice-1.1.1.zip",
+    "length": 3152608,
+    "signature": "UBv0IVcJ2WvOuoFwtGxpZSfuKwpydqxWy+2Z2ywl6ga8s7NKKb3l0fFH+Un4niREHpicmordh3NBRdx3Wub8DQ==",
+    "notes": "The update window is now always in English.",
+    "pubDate": "Wed, 04 Nov 2026 20:11:08 +0000"
+  },
+  {
     "version": "1.1.0",
     "shortVersion": "1.1.0",
     "minimumSystemVersion": "15.0",
