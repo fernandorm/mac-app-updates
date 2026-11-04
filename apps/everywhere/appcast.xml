@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Everywhere</title>
+    <item>
+      <title>Everywhere 1.0.0</title>
+      <pubDate>Wed, 04 Nov 2026 04:03:27 +0000</pubDate>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Primera versión: encuentra cualquier archivo por su nombre al instante, con índice en vivo, sintaxis de búsqueda tipo Everything, atajo global ⌥Space y Quick Look.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.0.0/Everywhere-1.0.0.zip" length="2686934" type="application/octet-stream" sparkle:edSignature="HY9wVAnbxD1AmVvY/Zub0fDPn+RK22e0NN8JxHp8LeobJGD1EkR2GM98evuZ2Lzw9vk+hRdIskXG32ESGe4BAg=="/>
+    </item>
+  </channel>
+</rss>

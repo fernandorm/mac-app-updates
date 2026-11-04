@@ -1,0 +1,9 @@
+{
+  "name": "Everywhere",
+  "slug": "everywhere",
+  "bundleId": "com.trinitycommerce.everywhere",
+  "teamId": "KQMP2NUSS7",
+  "publicEDKey": "MtBPesWiIuuWl6vSE+c3X3Ap9fQJRgmGObit4Lvx+Hs=",
+  "minimumSystemVersion": "14.0",
+  "feedUrl": "https://raw.githubusercontent.com/fernandorm/mac-app-updates/main/apps/everywhere/appcast.xml"
+}

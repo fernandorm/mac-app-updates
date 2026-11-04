@@ -1,0 +1,12 @@
+[
+  {
+    "version": "1.0.0",
+    "shortVersion": "1.0.0",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.0.0/Everywhere-1.0.0.zip",
+    "length": 2686934,
+    "signature": "HY9wVAnbxD1AmVvY/Zub0fDPn+RK22e0NN8JxHp8LeobJGD1EkR2GM98evuZ2Lzw9vk+hRdIskXG32ESGe4BAg==",
+    "notes": "Primera versión: encuentra cualquier archivo por su nombre al instante, con índice en vivo, sintaxis de búsqueda tipo Everything, atajo global ⌥Space y Quick Look.",
+    "pubDate": "Wed, 04 Nov 2026 04:03:27 +0000"
+  }
+]
