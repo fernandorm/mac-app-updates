@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.1.1",
+    "shortVersion": "1.1.1",
+    "minimumSystemVersion": "26.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.1.1/ClipMaker-1.1.1.zip",
+    "length": 5886183,
+    "signature": "rRPhpHpjFiu4nEpZDFLrNogPVR5kh3ab5qMsR9ZvV1giScpSexkh5VvxH+zN+9WdPkkpycXccQCgkLj5i8UvAw==",
+    "notes": "The update window is now always in English.",
+    "pubDate": "Wed, 04 Nov 2026 19:05:02 +0000"
+  },
+  {
     "version": "1.1.0",
     "shortVersion": "1.1.0",
     "minimumSystemVersion": "26.0",
