@@ -3,6 +3,15 @@
   <channel>
     <title>MySnippingTool</title>
     <item>
+      <title>MySnippingTool 1.3.0</title>
+      <pubDate>Wed, 04 Nov 2026 05:36:03 +0000</pubDate>
+      <sparkle:version>1.3.0</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Elegir un color es más fácil: en el editor, ⌘-clic sobre la imagen copia el color de ese punto y lo usa para dibujar. ⌘⇧-clic hace lo mismo con el color del texto.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.3.0/MySnippingTool-1.3.0.zip" length="2416352" type="application/octet-stream" sparkle:edSignature="poQSIBqMEUGBpxngj9cP8UOrSPHUTa++HZeMVSupav2CMM4o6ZTQJuz22l1sK0/i6Q7eQgVUfarppgLtfW6dDw=="/>
+    </item>
+    <item>
       <title>MySnippingTool 1.2.1</title>
       <pubDate>Wed, 04 Nov 2026 04:45:34 +0000</pubDate>
       <sparkle:version>1.2.1</sparkle:version>
