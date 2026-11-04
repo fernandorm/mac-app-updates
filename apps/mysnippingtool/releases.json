@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.2.0",
+    "shortVersion": "1.2.0",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.2.0/MySnippingTool-1.2.0.zip",
+    "length": 2415706,
+    "signature": "Jqvc/zf1tQ5S4EiXn4a9kz0FH8OsU+XkM3Xe1orUGroN+p2cb3y1a8TfYkUAEuHris3aZaisAc5QwXgw9pLEDA==",
+    "notes": "Selección de color mejorada: el editor muestra en vivo el color bajo el puntero. ⇥ copia ese píxel, ⇧⇥ copia el color del texto y la nueva herramienta cuentagotas (I) copia el color promedio de un área al arrastrar. El cuentagotas de pantalla funciona igual. Al pulsar el color se elige el formato (HEX, RGB o HSL).",
+    "pubDate": "Wed, 04 Nov 2026 04:42:55 +0000"
+  },
+  {
     "version": "1.1.0",
     "shortVersion": "1.1.0",
     "minimumSystemVersion": "14.0",

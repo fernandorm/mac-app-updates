@@ -3,6 +3,15 @@
   <channel>
     <title>MySnippingTool</title>
     <item>
+      <title>MySnippingTool 1.2.0</title>
+      <pubDate>Wed, 04 Nov 2026 04:42:55 +0000</pubDate>
+      <sparkle:version>1.2.0</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Selección de color mejorada: el editor muestra en vivo el color bajo el puntero. ⇥ copia ese píxel, ⇧⇥ copia el color del texto y la nueva herramienta cuentagotas (I) copia el color promedio de un área al arrastrar. El cuentagotas de pantalla funciona igual. Al pulsar el color se elige el formato (HEX, RGB o HSL).</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.2.0/MySnippingTool-1.2.0.zip" length="2415706" type="application/octet-stream" sparkle:edSignature="Jqvc/zf1tQ5S4EiXn4a9kz0FH8OsU+XkM3Xe1orUGroN+p2cb3y1a8TfYkUAEuHris3aZaisAc5QwXgw9pLEDA=="/>
+    </item>
+    <item>
       <title>MySnippingTool 1.1.0</title>
       <pubDate>Wed, 04 Nov 2026 04:38:36 +0000</pubDate>
       <sparkle:version>1.1.0</sparkle:version>
