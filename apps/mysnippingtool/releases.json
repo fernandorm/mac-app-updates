@@ -7,7 +7,12 @@
     "length": 2415756,
     "signature": "pV1WfGqAAngHeMr8Rpmp417fg264+ZbOqxvHY0vfKIHjsPLdkWVMVimETE8ZILQk05W2M3ypBrpWu+RAw3UIDw==",
     "notes": "Después de cada captura se abre el editor automáticamente. Si prefieres la miniatura flotante, cámbialo en Ajustes → General → After a capture.",
-    "pubDate": "Wed, 04 Nov 2026 04:45:34 +0000"
+    "pubDate": "Wed, 04 Nov 2026 04:45:34 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.2.1/MySnippingTool-1.2.1.dmg",
+      "length": 3943899,
+      "sha256": "4889714c6000924430df5cf4c3bf6c62d235494cd5710c96c5b7ac6ad8d3a224"
+    }
   },
   {
     "version": "1.2.0",
