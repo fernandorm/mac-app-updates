@@ -7,7 +7,12 @@
     "length": 2688510,
     "signature": "k2ntmAzW8d+CAp0OGgi22NXN22SgHJXV9nfqoyDq4LPJnyHlgsjJMccA8gGQRja7U190SEc9/BrBXwHFY6xUDg==",
     "notes": "Everywhere ya aparece en Ajustes del Sistema › Privacidad › Acceso total al disco para poder activarlo, y la bienvenida explica cómo añadirlo si falta.",
-    "pubDate": "Wed, 04 Nov 2026 04:12:12 +0000"
+    "pubDate": "Wed, 04 Nov 2026 04:12:12 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.0.1/Everywhere-1.0.1.dmg",
+      "length": 4476690,
+      "sha256": "353fbde1ad934bbc5562a3e802c3a341cfc08b816504c42a76720c7b9f29bd49"
+    }
   },
   {
     "version": "1.0.0",
