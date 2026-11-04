@@ -7,7 +7,12 @@
     "length": 2776966,
     "signature": "cBWDR8rPymmKyu0NlhkTbKC6Rtf8LBGU+ZTcWDKPHvNWAI15r5hw4LVHeg6LJHRaUcrSvyyJBi6yino+gWnHCQ==",
     "notes": "Everywhere ahora vive en la barra de menús: no ocupa el Dock ni deja ventanas abiertas. Ábrelo con el atajo (por defecto ⌥Space) o desde el icono de la barra; se oculta solo al cambiar de app. Al iniciar sesión arranca en segundo plano y Ajustes ya no se abre por su cuenta.",
-    "pubDate": "Wed, 04 Nov 2026 06:46:22 +0000"
+    "pubDate": "Wed, 04 Nov 2026 06:46:22 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.3.0/Everywhere-1.3.0.dmg",
+      "length": 4575423,
+      "sha256": "9fd5ebaf97fada6c3bf37c7bdf90f2008722bf2ffb3087749b859a448ad6b5e9"
+    }
   },
   {
     "version": "1.2.0",
