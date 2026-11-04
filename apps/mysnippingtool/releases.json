@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.1.0",
+    "shortVersion": "1.1.0",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.1.0/MySnippingTool-1.1.0.zip",
+    "length": 2393011,
+    "signature": "lpZ8MuM2MdOsgymoKROVRv2YMmKOM22rMuxSj+SKhRF2M824G0LajmvGPG0xfDWs9BhAt3O9qCVZa7yuCiwIBg==",
+    "notes": "Las flechas ahora se pueden doblar: al dibujar una flecha aparecen asas para mover sus extremos y un asa central para curvarla. Con la herramienta de selección, haz clic en cualquier flecha para volver a editarla.",
+    "pubDate": "Wed, 04 Nov 2026 04:38:36 +0000"
+  },
+  {
     "version": "1.0.0",
     "shortVersion": "1.0.0",
     "minimumSystemVersion": "14.0",

@@ -3,6 +3,15 @@
   <channel>
     <title>MySnippingTool</title>
     <item>
+      <title>MySnippingTool 1.1.0</title>
+      <pubDate>Wed, 04 Nov 2026 04:38:36 +0000</pubDate>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Las flechas ahora se pueden doblar: al dibujar una flecha aparecen asas para mover sus extremos y un asa central para curvarla. Con la herramienta de selección, haz clic en cualquier flecha para volver a editarla.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.1.0/MySnippingTool-1.1.0.zip" length="2393011" type="application/octet-stream" sparkle:edSignature="lpZ8MuM2MdOsgymoKROVRv2YMmKOM22rMuxSj+SKhRF2M824G0LajmvGPG0xfDWs9BhAt3O9qCVZa7yuCiwIBg=="/>
+    </item>
+    <item>
       <title>MySnippingTool 1.0.0</title>
       <pubDate>Wed, 04 Nov 2026 04:30:28 +0000</pubDate>
       <sparkle:version>1.0.0</sparkle:version>
