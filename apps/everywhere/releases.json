@@ -6,7 +6,7 @@
     "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.3.0/Everywhere-1.3.0.zip",
     "length": 2776966,
     "signature": "cBWDR8rPymmKyu0NlhkTbKC6Rtf8LBGU+ZTcWDKPHvNWAI15r5hw4LVHeg6LJHRaUcrSvyyJBi6yino+gWnHCQ==",
-    "notes": "Everywhere ahora vive en la barra de menús: no ocupa el Dock ni deja ventanas abiertas. Ábrelo con el atajo (por defecto ⌥Space) o desde el icono de la barra; se oculta solo al cambiar de app. Al iniciar sesión arranca en segundo plano y Ajustes ya no se abre por su cuenta.",
+    "notes": "Everywhere now lives in the menu bar: it no longer takes a spot in the Dock or leaves windows open. Open it with the shortcut (⌥Space by default) or from the menu bar icon; it hides by itself when you switch apps. At login it starts in the background, and Settings no longer opens on its own.",
     "pubDate": "Wed, 04 Nov 2026 06:46:22 +0000",
     "dmg": {
       "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.3.0/Everywhere-1.3.0.dmg",
@@ -21,7 +21,7 @@
     "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.2.0/Everywhere-1.2.0.zip",
     "length": 2769066,
     "signature": "nx80AumtWFggvD9EFYjmVAyEooah741lpAfbIybYwIZ31q3Q6OA6N/+B8xERLhqzQsOUGfeiaMkIJAXyzAqvBg==",
-    "notes": "Nuevo: lo que buscas sale en negrita; ↑ recupera búsquedas recientes; filtros rápidos (Audio, Video, Imágenes, Documentos, Comprimidos, Apps, Carpetas) con ⌃1…⌃7; columna y búsqueda por fecha de creación (dc:); columnas Kind y Extension (clic derecho en la cabecera); Open With, Open in Terminal, Rename (F2) y Copy Folder Path; ventana flotante tipo Spotlight en Settings. Más seguro: pide confirmación al abrir muchos archivos o mandar más de 10 a la Papelera, y ⌘Z deshace la Papelera y los renombres. El índice se reconstruye una vez al actualizar.",
+    "notes": "New: your search terms appear in bold; ↑ brings back recent searches; quick filters (Audio, Video, Images, Documents, Archives, Apps, Folders) with ⌃1…⌃7; a column and search by creation date (dc:); Kind and Extension columns (right-click the header); Open With, Open in Terminal, Rename (F2) and Copy Folder Path; a floating Spotlight-style window in Settings. Safer: it asks before opening many files or moving more than 10 to the Trash, and ⌘Z undoes moves to the Trash and renames. The index is rebuilt once after updating.",
     "pubDate": "Wed, 04 Nov 2026 05:43:54 +0000",
     "dmg": {
       "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.2.0/Everywhere-1.2.0.dmg",
@@ -36,7 +36,7 @@
     "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.1.0/Everywhere-1.1.0.zip",
     "length": 2700188,
     "signature": "VHMtDybgQ0Hbp5HbI5xgbUikPWYfHoy2plVVZFoU/HD/ub9DfOx0dJ4KjHWuoZwXbmokPrdor6dMzYIqzCBvAA==",
-    "notes": "Nuevo: elige cualquier atajo para abrir Everywhere en Settings › General (por defecto ⌥Space), visible también en el menú de la barra. Google Drive, Dropbox y OneDrive (~/Library/CloudStorage) quedan fuera del índice por defecto porque cada listado va por la red; puedes incluirlos en Settings › Exclude.",
+    "notes": "New: choose any shortcut to open Everywhere in Settings › General (⌥Space by default); it also shows in the menu bar menu. Google Drive, Dropbox and OneDrive (~/Library/CloudStorage) are left out of the index by default because every listing goes over the network; you can include them in Settings › Exclude.",
     "pubDate": "Wed, 04 Nov 2026 04:20:33 +0000",
     "dmg": {
       "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.1.0/Everywhere-1.1.0.dmg",
@@ -51,7 +51,7 @@
     "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.0.2/Everywhere-1.0.2.zip",
     "length": 2689255,
     "signature": "OKcxR8AOOUdiuL14dGrcxgPcJs2t5/+Qt46bxdulWsb5DrPsdhx8bXTRmOV8GJ1kQ7BRLP7WJV5YyoHUeGiZAw==",
-    "notes": "Everywhere detecta correctamente el Acceso total al disco en macOS 27: tras activarlo, la bienvenida muestra la marca verde y el índice incluye las carpetas protegidas.",
+    "notes": "Everywhere now correctly detects Full Disk Access on macOS 27: once it's turned on, the welcome screen shows the green check mark and the index includes protected folders.",
     "pubDate": "Wed, 04 Nov 2026 04:14:25 +0000",
     "dmg": {
       "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.0.2/Everywhere-1.0.2.dmg",
@@ -66,7 +66,7 @@
     "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.0.1/Everywhere-1.0.1.zip",
     "length": 2688510,
     "signature": "k2ntmAzW8d+CAp0OGgi22NXN22SgHJXV9nfqoyDq4LPJnyHlgsjJMccA8gGQRja7U190SEc9/BrBXwHFY6xUDg==",
-    "notes": "Everywhere ya aparece en Ajustes del Sistema › Privacidad › Acceso total al disco para poder activarlo, y la bienvenida explica cómo añadirlo si falta.",
+    "notes": "Everywhere now appears in System Settings › Privacy & Security › Full Disk Access so you can turn it on, and the welcome screen explains how to add it if it's missing.",
     "pubDate": "Wed, 04 Nov 2026 04:12:12 +0000",
     "dmg": {
       "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.0.1/Everywhere-1.0.1.dmg",
@@ -81,7 +81,7 @@
     "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.0.0/Everywhere-1.0.0.zip",
     "length": 2686934,
     "signature": "HY9wVAnbxD1AmVvY/Zub0fDPn+RK22e0NN8JxHp8LeobJGD1EkR2GM98evuZ2Lzw9vk+hRdIskXG32ESGe4BAg==",
-    "notes": "Primera versión: encuentra cualquier archivo por su nombre al instante, con índice en vivo, sintaxis de búsqueda tipo Everything, atajo global ⌥Space y Quick Look.",
+    "notes": "First version: find any file by name instantly, with a live index, Everything-style search syntax, the global ⌥Space shortcut and Quick Look.",
     "pubDate": "Wed, 04 Nov 2026 04:03:27 +0000",
     "dmg": {
       "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.0.0/Everywhere-1.0.0.dmg",

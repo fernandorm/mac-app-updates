@@ -8,7 +8,7 @@
       <sparkle:version>1.1.0</sparkle:version>
       <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Primera versión con actualizaciones automáticas (Sparkle). Identificador com.trinitycommerce.revoice. El motor de Python sigue en el repositorio y se actualiza con git.</p>]]></description>
+      <description><![CDATA[<p>First version with automatic updates (Sparkle). New identifier com.trinitycommerce.revoice. The Python engine stays in its repository and updates with git.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/revoice-v1.1.0/ReVoice-1.1.0.zip" length="3267379" type="application/octet-stream" sparkle:edSignature="32cUv+QWGpjYv/Z/npne8KxzXfiaTe2NdR0JlX4p5IQl0M+BaRcISB//YxTlVEFeh2rQGYzMs36EhFtyjFujAg=="/>
     </item>
   </channel>

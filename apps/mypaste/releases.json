@@ -6,7 +6,7 @@
     "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mypaste-v1.4.0/MyPaste-1.4.0.zip",
     "length": 2475236,
     "signature": "eck1CLm+onvt/QrmP9OZFJfWua/bz87G/AlaceT53i4CI1lQD+YnQSJ4rGWnVtvPmVrXJQ6g+8kF/JmtMvXQAQ==",
-    "notes": "Nuevo: «Editar en MySnippingTool» en las imágenes del historial (menú contextual y botón de lápiz en la tarjeta) cuando MySnippingTool está instalado.",
+    "notes": "New: “Edit in MySnippingTool” for images in the history (context menu and the pencil button on the card) when MySnippingTool is installed.",
     "pubDate": "Wed, 04 Nov 2026 05:42:48 +0000",
     "dmg": {
       "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mypaste-v1.4.0/MyPaste-1.4.0.dmg",
@@ -21,7 +21,7 @@
     "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mypaste-v1.3.0/MyPaste-1.3.0.zip",
     "length": 2473102,
     "signature": "Fz4GsJ8V6SVJ7mic8JfCRtAj83tuJUN8WXOMLSHjH1znsfveuK/mRUfCWB8twpwd/oH5hJcCFMv+IbSxE4ziCQ==",
-    "notes": "Carrusel con flechas y puntos para avanzar con un clic. Búsqueda más inteligente: ordena por relevancia, tolera erratas y resalta lo encontrado (también el texto de las imágenes). Editar un texto antes de pegarlo y transformarlo (mayúsculas, enlace sin rastreo, JSON…). Pinboards con color, orden manual y atajos ⌥1–9. Exportar e importar el historial. Las actualizaciones ahora se instalan solas cuando no usas el Mac.",
+    "notes": "Carousel with arrows and dots to move along with one click. Smarter search: sorted by relevance, tolerant of typos, and highlights what it found (including text in images). Edit a text before pasting it and transform it (uppercase, link without tracking, JSON…). Pinboards with colors, manual order and ⌥1–9 shortcuts. Export and import the history. Updates now install by themselves while you're away from the Mac.",
     "pubDate": "Wed, 04 Nov 2026 03:36:53 +0000",
     "dmg": {
       "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mypaste-v1.3.0/MyPaste-1.3.0.dmg",
@@ -36,7 +36,7 @@
     "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mypaste-v1.2.1/MyPaste-1.2.1.zip",
     "length": 2362556,
     "signature": "z9sPlQAyR3Ef6mZNFjHI9NTCxS1atkcWzdLB0PdLEm9gR7xPXCDiqpKwmPT9tTOxnvfesVfvlqK46sn676h0Dg==",
-    "notes": "Sin cambios en la app. Ahora también hay un instalador DMG para instalarla por primera vez.",
+    "notes": "No changes to the app. There's now also a DMG installer for first-time installation.",
     "pubDate": "Tue, 03 Nov 2026 21:54:21 +0000",
     "dmg": {
       "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mypaste-v1.2.1/MyPaste-1.2.1.dmg",
@@ -51,7 +51,7 @@
     "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mypaste-v1.2.0/MyPaste-1.2.0.zip",
     "length": 2362567,
     "signature": "Bi4ZByyyVzh1G42FKfF+XJSXEO4p4Gc5h8QhcPC/RwkZYuJggXQDzUGj75eJTuv2eNf7uuR4/j0aUtk3lElnBg==",
-    "notes": "La interfaz de MyPaste ahora está en inglés: menús, ajustes, panel, pila de pegado y bienvenida.",
+    "notes": "MyPaste's interface is now in English: menus, settings, panel, paste stack and welcome screen.",
     "pubDate": "Tue, 03 Nov 2026 16:09:04 +0000"
   },
   {
@@ -61,7 +61,7 @@
     "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mypaste-v1.1.1/MyPaste-1.1.1.zip",
     "length": 2362995,
     "signature": "K917OHijDQ0mhY44fgs209DRJAX/pNBpll1mGtnxyZSE5PLLkz+jbBBwT1ACfBZttZtdVRYgFF2xJnZPDCRgDw==",
-    "notes": "Prueba del sistema de actualizaciones automáticas (sin cambios funcionales).",
+    "notes": "Test of the automatic update system (no functional changes).",
     "pubDate": "Sun, 01 Nov 2026 15:46:30 +0000"
   },
   {
@@ -71,7 +71,7 @@
     "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mypaste-v1.1.0/MyPaste-1.1.0.zip",
     "length": 2362983,
     "signature": "31Y+3vWtOlaJDePYNa88T0p0T6J9GMDQwVuBvjjP7fg7qvcbSJjvIPZoLfLr/YqSfIKHvq9iG/ku9IMITapHDQ==",
-    "notes": "Primera versión con actualizaciones automáticas. Incluye Quick Look, selección múltiple, modo texto plano, pila de pegado, OCR, vista previa de enlaces, filtros y arrastrar y soltar.",
+    "notes": "First version with automatic updates. Includes Quick Look, multiple selection, plain text mode, paste stack, OCR, link previews, filters and drag and drop.",
     "pubDate": "Sun, 01 Nov 2026 15:39:49 +0000"
   }
 ]

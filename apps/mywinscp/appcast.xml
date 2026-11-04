@@ -8,7 +8,7 @@
       <sparkle:version>1.3.0</sparkle:version>
       <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>La app pasa a estar completamente en inglés: menús, ventanas, avisos, registro y el instalador DMG. Los sitios guardados se conservan.</p>]]></description>
+      <description><![CDATA[<p>The app is now fully in English: menus, windows, alerts, the log and the DMG installer. Your saved sites are kept.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mywinscp-v1.3.0/MyWinSCP-1.3.0.zip" length="7973119" type="application/octet-stream" sparkle:edSignature="OhpO1t7oQsx77MVtiIE477SCaaZKFqYe/jlbMAOFfbetMy6JW43HAESvgNzcVLNWbpCXLNcBojRLDmy1lXS7DQ=="/>
     </item>
     <item>
@@ -17,7 +17,7 @@
       <sparkle:version>1.2.0</sparkle:version>
       <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Copiar archivos desde y hacia el servidor: ⌘C y ⌘V entre el servidor, el Mac y Finder; arrastrar archivos del servidor a Finder; y duplicar en otra carpeta del mismo servidor (⇧F5).</p>]]></description>
+      <description><![CDATA[<p>Copy files to and from the server: ⌘C and ⌘V between the server, the Mac and the Finder; drag files from the server to the Finder; and duplicate into another folder on the same server (⇧F5).</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mywinscp-v1.2.0/MyWinSCP-1.2.0.zip" length="7972652" type="application/octet-stream" sparkle:edSignature="B57MQnHXtygK37euhvgGEWi0wkJdYPooBlG82LN/anODxYBSRvJfgrpZpVyGjKZo6Ae7ZmLNFNs7xcEeUY9uAA=="/>
     </item>
     <item>
@@ -26,7 +26,7 @@
       <sparkle:version>1.1.0</sparkle:version>
       <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Primera versión publicada de MyWinSCP: cliente SFTP/FTP/FTPS inspirado en WinSCP. Incluye instalador DMG y sigue el tema claro u oscuro del sistema.</p>]]></description>
+      <description><![CDATA[<p>First published version of MyWinSCP: an SFTP/FTP/FTPS client inspired by WinSCP. Includes a DMG installer and follows the system's light or dark appearance.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mywinscp-v1.1.0/MyWinSCP-1.1.0.zip" length="7943833" type="application/octet-stream" sparkle:edSignature="x3uLOvGwXt0Ar5bxustU6slO/g1s520lM8J3qGLVx8+PoCZcv8kubCOKoRhDOo5C0POGqaqtzQNR7dBuJqPACQ=="/>
     </item>
   </channel>

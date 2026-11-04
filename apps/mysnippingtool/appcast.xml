@@ -8,7 +8,7 @@
       <sparkle:version>1.4.0</sparkle:version>
       <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Ahora puedes abrir imágenes en el editor desde otras apps: con «Abrir con» en Finder o con «Editar en MySnippingTool» en MyPaste.</p>]]></description>
+      <description><![CDATA[<p>You can now open images in the editor from other apps: with “Open With” in the Finder or with “Edit in MySnippingTool” in MyPaste.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.4.0/MySnippingTool-1.4.0.zip" length="2416717" type="application/octet-stream" sparkle:edSignature="WEkUw3DxjHWM3Ml4uKFIGPWUwSSBKiwWU+27suoMv3mGqx8Gf2EbfnMEG7q2ZLkMhci84VnzTg7MCa1tznunBA=="/>
     </item>
     <item>
@@ -17,7 +17,7 @@
       <sparkle:version>1.3.0</sparkle:version>
       <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Elegir un color es más fácil: en el editor, ⌘-clic sobre la imagen copia el color de ese punto y lo usa para dibujar. ⌘⇧-clic hace lo mismo con el color del texto.</p>]]></description>
+      <description><![CDATA[<p>Picking a color is easier: in the editor, ⌘-click the image to copy the color at that point and draw with it. ⌘⇧-click does the same with the text color.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.3.0/MySnippingTool-1.3.0.zip" length="2416352" type="application/octet-stream" sparkle:edSignature="poQSIBqMEUGBpxngj9cP8UOrSPHUTa++HZeMVSupav2CMM4o6ZTQJuz22l1sK0/i6Q7eQgVUfarppgLtfW6dDw=="/>
     </item>
     <item>
@@ -26,7 +26,7 @@
       <sparkle:version>1.2.1</sparkle:version>
       <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Después de cada captura se abre el editor automáticamente. Si prefieres la miniatura flotante, cámbialo en Ajustes → General → After a capture.</p>]]></description>
+      <description><![CDATA[<p>The editor now opens automatically after every capture. If you prefer the floating thumbnail, change it in Settings → General → After a capture.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.2.1/MySnippingTool-1.2.1.zip" length="2415756" type="application/octet-stream" sparkle:edSignature="pV1WfGqAAngHeMr8Rpmp417fg264+ZbOqxvHY0vfKIHjsPLdkWVMVimETE8ZILQk05W2M3ypBrpWu+RAw3UIDw=="/>
     </item>
     <item>
@@ -35,7 +35,7 @@
       <sparkle:version>1.2.0</sparkle:version>
       <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Selección de color mejorada: el editor muestra en vivo el color bajo el puntero. ⇥ copia ese píxel, ⇧⇥ copia el color del texto y la nueva herramienta cuentagotas (I) copia el color promedio de un área al arrastrar. El cuentagotas de pantalla funciona igual. Al pulsar el color se elige el formato (HEX, RGB o HSL).</p>]]></description>
+      <description><![CDATA[<p>Better color picking: the editor shows the color under the pointer live. ⇥ copies that pixel, ⇧⇥ copies the text color, and the new eyedropper tool (I) copies the average color of an area as you drag. The screen eyedropper works the same way. Clicking the color lets you choose the format (HEX, RGB or HSL).</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.2.0/MySnippingTool-1.2.0.zip" length="2415706" type="application/octet-stream" sparkle:edSignature="Jqvc/zf1tQ5S4EiXn4a9kz0FH8OsU+XkM3Xe1orUGroN+p2cb3y1a8TfYkUAEuHris3aZaisAc5QwXgw9pLEDA=="/>
     </item>
     <item>
@@ -44,7 +44,7 @@
       <sparkle:version>1.1.0</sparkle:version>
       <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Las flechas ahora se pueden doblar: al dibujar una flecha aparecen asas para mover sus extremos y un asa central para curvarla. Con la herramienta de selección, haz clic en cualquier flecha para volver a editarla.</p>]]></description>
+      <description><![CDATA[<p>Arrows can now bend: when you draw an arrow, handles appear to move its ends, plus a middle handle to curve it. With the selection tool, click any arrow to edit it again.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.1.0/MySnippingTool-1.1.0.zip" length="2393011" type="application/octet-stream" sparkle:edSignature="lpZ8MuM2MdOsgymoKROVRv2YMmKOM22rMuxSj+SKhRF2M824G0LajmvGPG0xfDWs9BhAt3O9qCVZa7yuCiwIBg=="/>
     </item>
     <item>
@@ -53,7 +53,7 @@
       <sparkle:version>1.0.0</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Primera versión: capturas de área, ventana, pantalla completa y con desplazamiento; editor con anotaciones; copiar texto (OCR); cuentagotas; capturas ancladas</p>]]></description>
+      <description><![CDATA[<p>First version: area, window, full-screen and scrolling captures; an editor with annotations; copy text (OCR); eyedropper; pinned captures.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.0.0/MySnippingTool-1.0.0.zip" length="2387531" type="application/octet-stream" sparkle:edSignature="1nc8rKmFthy/QUJIzs0zGmpQtQk4ghJkfu/6Joeo+ZM6iXjXmeD/6dL6iVfdz90vsaIFlg0qcvVbPiLflgf5AA=="/>
     </item>
   </channel>

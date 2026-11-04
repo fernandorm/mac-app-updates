@@ -8,7 +8,7 @@
       <sparkle:version>1.1.0</sparkle:version>
       <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Primera versión con actualizaciones automáticas (Sparkle).</p>]]></description>
+      <description><![CDATA[<p>First version with automatic updates (Sparkle).</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mydato-v1.1.0/MyDato-1.1.0.zip" length="2920696" type="application/octet-stream" sparkle:edSignature="TQobvtQ8AjwOUdN6mZruB+vtfGZ4KlficVZy/sc+8SnXEqE7X8PY6L89qiETMT1rT1tnXvKZSNtvZ8FK6DCuAw=="/>
     </item>
   </channel>

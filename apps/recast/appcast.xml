@@ -8,7 +8,7 @@
       <sparkle:version>1.2.0</sparkle:version>
       <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Revisión diaria a las 18:00 con informe por Telegram (permisos, llavero, Páginas y tokens, Auto Live). Auto Live sigue un directo iniciado a mano sin abrir otro reproductor ni mover la captura, y reutiliza el reproductor al reintentar. Las ventanas del reproductor se cierran, mueven y traen al frente a través del Chrome que las tiene. Aviso por Telegram si el directo pasa 30 s sin audio.</p>]]></description>
+      <description><![CDATA[<p>Daily check at 6:00 PM with a Telegram report (permissions, keychain, Pages and tokens, Auto Live). Auto Live follows a stream started by hand without opening another player or moving the capture, and reuses the player when retrying. Player windows are closed, moved and brought to the front through the Chrome that owns them. Telegram alert if the stream goes 30 seconds without audio.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/recast-v1.2.0/ReCast-1.2.0.zip" length="4147066" type="application/octet-stream" sparkle:edSignature="LWdbJRs5OiAFUKWFwkl4AKAkCZ6uQXRJ/bIlCyqSS40D2roLVDqLb8wwYAKzDhvvMBdCSaQ3RCQbKDFfWsmQDQ=="/>
     </item>
     <item>
@@ -17,7 +17,7 @@
       <sparkle:version>1.1.0</sparkle:version>
       <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Primera versión con actualizaciones automáticas (Sparkle). Identificador com.trinitycommerce.recast; preferencias y secretos se migran solos. macOS pedirá de nuevo Grabación de pantalla, Micrófono y Apple Events.</p>]]></description>
+      <description><![CDATA[<p>First version with automatic updates (Sparkle). New identifier com.trinitycommerce.recast; preferences and secrets carry over automatically. macOS will ask again for Screen Recording, Microphone and Apple Events access.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/recast-v1.1.0/ReCast-1.1.0.zip" length="4092436" type="application/octet-stream" sparkle:edSignature="/KnEXyNc+TXSJDvOpcWVxH8gCA8Nm6PKLboU788j2+G0Dt2FtjWpEUDXSA9Duv4QcWnTQJIYBU0obxQmEM/cAg=="/>
     </item>
   </channel>

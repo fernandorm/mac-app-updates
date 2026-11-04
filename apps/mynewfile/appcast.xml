@@ -8,7 +8,7 @@
       <sparkle:version>1.3.0</sparkle:version>
       <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>New File puede pedir el nombre antes de crear el archivo, y los scripts (.sh, .py) se crean listos para ejecutar. Copiar, pegar y mover ya no congelan Finder con archivos grandes. Paste aparece también al hacer clic derecho sobre archivos o carpetas, muestra de dónde vienen los archivos y permite cancelar el corte. Nuevo Move To en las carpetas favoritas. Imágenes: conversión a HEIC, calidad y tamaño máximo ajustables, opción de mandar los originales a la Papelera, y las fotos del iPhone ya no salen giradas. Los errores ahora siempre se avisan.</p>]]></description>
+      <description><![CDATA[<p>New File can ask for the name before creating the file, and scripts (.sh, .py) are created ready to run. Copying, pasting and moving no longer freeze the Finder with large files. Paste also appears when you right-click files or folders, shows where the files come from, and lets you cancel a cut. New Move To for favorite folders. Images: convert to HEIC, adjustable quality and maximum size, an option to move the originals to the Trash, and iPhone photos no longer come out rotated. Errors are now always reported.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mynewfile-v1.3.0/MyNewFile-1.3.0.zip" length="1880871" type="application/octet-stream" sparkle:edSignature="IWqiXzcwjXMm1jPTzM/6s618DzSlB80VBFU3xatz2U+CVQ6U2AYjOFof+obQB+NV0AV/8yzyA5t+13iIno6kBg=="/>
     </item>
     <item>
@@ -17,7 +17,7 @@
       <sparkle:version>1.2.1</sparkle:version>
       <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Los iconos del menú contextual de Finder ahora se ven bien en modo oscuro (antes salían negros).</p>]]></description>
+      <description><![CDATA[<p>Finder context menu icons now look right in Dark Mode (they used to appear black).</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mynewfile-v1.2.1/MyNewFile-1.2.1.zip" length="1794905" type="application/octet-stream" sparkle:edSignature="kfG6wHfOGfbiLkkRhfP+51iOBmXhtDy2nUc+BsUBC/oRWlXBLsENKieu77gm69klSeUzXe1d6sRpfig/KzCIDQ=="/>
     </item>
     <item>
@@ -26,7 +26,7 @@
       <sparkle:version>1.2.0</sparkle:version>
       <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Ahora puedes crear un archivo nuevo (New File) también al hacer clic derecho sobre un archivo seleccionado, no solo en el fondo de la carpeta. Nuevo instalador DMG para la primera instalación.</p>]]></description>
+      <description><![CDATA[<p>You can now create a new file (New File) by right-clicking a selected file too, not only the folder background. New DMG installer for first-time installation.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mynewfile-v1.2.0/MyNewFile-1.2.0.zip" length="1793482" type="application/octet-stream" sparkle:edSignature="rq88FDq3kepj7LKvBn2VxmNcusk5hKwGzjGk2C9TCEDUng9G/i/2+OR3HQenLfbVvh9zGxLBCTAU6WxCmLnsCw=="/>
     </item>
     <item>
@@ -35,7 +35,7 @@
       <sparkle:version>1.1.0</sparkle:version>
       <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Primera versión con actualizaciones automáticas (Sparkle). Tras instalarla, puede que haya que reactivar la extensión de Finder en Ajustes del Sistema.</p>]]></description>
+      <description><![CDATA[<p>First version with automatic updates (Sparkle). After installing it, you may need to turn the Finder extension back on in System Settings.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mynewfile-v1.1.0/MyNewFile-1.1.0.zip" length="1793083" type="application/octet-stream" sparkle:edSignature="lkK2AcJZ4Wqmc9sloIIhiD4H6uuCIbodV+OOyKyb2fGJZLzmsKTmEbAtw4oYXBQQn13krjrBJJSzCmdxmCs9CA=="/>
     </item>
   </channel>

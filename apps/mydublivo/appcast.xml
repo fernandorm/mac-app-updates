@@ -8,7 +8,7 @@
       <sparkle:version>0.2.0</sparkle:version>
       <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Primera versión con actualizaciones automáticas (Sparkle). Antes se llamaba DubLocal; preferencias y datos se migran solos. El motor de Python sigue en ~/Projects/MyDublivo/engine.</p>]]></description>
+      <description><![CDATA[<p>First version with automatic updates (Sparkle). Formerly called DubLocal; preferences and data carry over automatically. The Python engine stays in ~/Projects/MyDublivo/engine.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mydublivo-v0.2.0/MyDublivo-0.2.0.zip" length="2025072" type="application/octet-stream" sparkle:edSignature="1Jrygq8ejavtEwkoP9XHvTwIAcpODigWo2Io1cL9Z3ksf74W85bt/hKPucjFTHmObk7SWh/KzNhmck/v/2unCg=="/>
     </item>
   </channel>

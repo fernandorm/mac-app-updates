@@ -8,7 +8,7 @@
       <sparkle:version>1.1.0</sparkle:version>
       <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Primera versión con actualizaciones automáticas (Sparkle). Identificador com.trinitycommerce.clipmaker; las preferencias se migran solas.</p>]]></description>
+      <description><![CDATA[<p>First version with automatic updates (Sparkle). New identifier com.trinitycommerce.clipmaker; your preferences carry over automatically.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.1.0/ClipMaker-1.1.0.zip" length="6001239" type="application/octet-stream" sparkle:edSignature="vmShozGGwJa/gYAoDV9KNKtPsWVRa8Ys6v1CgM78lziH2ugrghPh2mCvwxui4pxhqSpByHGLnoXtrzMjwRFwDQ=="/>
     </item>
   </channel>

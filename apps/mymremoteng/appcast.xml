@@ -8,7 +8,7 @@
       <sparkle:version>1.9.0</sparkle:version>
       <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>El escritorio remoto va más fluido: solo se redibuja lo que cambia. Puedes usar el micrófono del Mac («Redirect Microphone») e imprimir en las impresoras del Mac («Redirect Printers») desde Windows. Al salir con sesiones abiertas la app pregunta antes, y ⌘W en el escritorio remoto ahora es Ctrl+W de Windows (⇧⌘W cierra la pestaña). Nuevo Session › Reconnect All y registro de sesiones SSH y Telnet en texto (Session › Log Terminal Sessions). Los túneles SSH ya no quedan abiertos si la app se cierra de golpe.</p>]]></description>
+      <description><![CDATA[<p>Remote desktops run more smoothly: only what changes on screen is redrawn. You can use the Mac's microphone (“Redirect Microphone”) and print to the Mac's printers (“Redirect Printers”) from Windows. Quitting with open sessions now asks first, and ⌘W on a remote desktop is now Windows' Ctrl+W (⇧⌘W closes the tab). New Session › Reconnect All, and plain-text logs of SSH and Telnet sessions (Session › Log Terminal Sessions). SSH tunnels no longer stay open if the app quits unexpectedly.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.9.0/MyMRemoteNG-1.9.0.zip" length="5960627" type="application/octet-stream" sparkle:edSignature="jR6KMzUHLzbA3NtlFk6OZYZMD56i4KXudr04E51EnxoPo5i/jYaINIOHQBevrdEf6KxgQr9zL6GYBt2y3SuQCA=="/>
     </item>
     <item>
@@ -17,7 +17,7 @@
       <sparkle:version>1.8.0</sparkle:version>
       <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Escritorio remoto más nítido en pantallas Retina, con el cursor de Windows y sonido (si la conexión tiene «Sound: Play on This Mac»). Si se corta la red, la sesión se reconecta sola. Pegar archivos grandes de Windows muestra una barra de progreso y ya no congela la app. Nuevo menú Session › Send to Windows (Ctrl+Alt+Supr, Win+L…) y ⌘Q también cierra la sesión de Windows. VNC más rápido en redes lentas (Tight y ZRLE). Las conexiones con «SSH Tunnel» se abren a través de esa conexión SSH. Pantalla completa oculta la barra lateral y el inspector, y las actualizaciones se instalan solas.</p>]]></description>
+      <description><![CDATA[<p>Sharper remote desktops on Retina screens, with the Windows pointer and sound (when the connection has “Sound: Play on This Mac”). If the network drops, the session reconnects by itself. Pasting large files from Windows shows a progress bar and no longer freezes the app. New Session › Send to Windows menu (Ctrl+Alt+Del, Win+L…), and ⌘Q also signs out of Windows. Faster VNC on slow networks (Tight and ZRLE). Connections with “SSH Tunnel” open through that SSH connection. Full screen hides the sidebar and the inspector, and updates install by themselves.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.8.0/MyMRemoteNG-1.8.0.zip" length="5932733" type="application/octet-stream" sparkle:edSignature="ypuotu7ig2gwSz4RvDkKXzQUme+ozYF0RiHssrU8wlYujLqS+MJAgFpkmma+FZSafZNZIr5YWljNeH9DvXJjCw=="/>
     </item>
     <item>
@@ -26,7 +26,7 @@
       <sparkle:version>1.7.1</sparkle:version>
       <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Ahora puedes arrastrar a Windows archivos que vienen de otras apps, como un zip de las descargas de Safari o Chrome o un adjunto de Mail, no solo los del Finder.</p>]]></description>
+      <description><![CDATA[<p>You can now drag files from other apps to Windows, such as a zip from Safari's or Chrome's downloads or a Mail attachment, not just files from the Finder.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.7.1/MyMRemoteNG-1.7.1.zip" length="5856114" type="application/octet-stream" sparkle:edSignature="zpAobs9oKbL8G0z8yy3pjcxcIW/O6VStir9k3I+fsM7ApDLHPP/lkBNV2VC1AhM6va3CjZCyo7wpQGDqwGy6AA=="/>
     </item>
     <item>
@@ -35,7 +35,7 @@
       <sparkle:version>1.7.0</sparkle:version>
       <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Al cerrar la pestaña de un Escritorio remoto también se cierra la sesión de Windows, en lugar de dejarla abierta en el servidor. Puedes desactivarlo en el menú Session › Sign Out of Windows When Closing a Tab.</p>]]></description>
+      <description><![CDATA[<p>Closing a Remote Desktop tab now also signs out of Windows instead of leaving the session running on the server. You can turn this off in Session › Sign Out of Windows When Closing a Tab.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.7.0/MyMRemoteNG-1.7.0.zip" length="5851504" type="application/octet-stream" sparkle:edSignature="0qGMZuHsC4pvkgzGq9dUCF7/202PyRD09CFRiNzkmn0E74XfjsbL8cggkVm1j36zpLZ9oU+IHfGHAC4TfNKNDw=="/>
     </item>
     <item>
@@ -44,7 +44,7 @@
       <sparkle:version>1.6.0</sparkle:version>
       <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Arrastra archivos o carpetas del Finder a una carpeta o al escritorio de Windows y se copian ahí directamente, sin tener que pulsar ⌘V.</p>]]></description>
+      <description><![CDATA[<p>Drag files or folders from the Finder onto a Windows folder or the Windows desktop and they're copied right there, no ⌘V needed.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.6.0/MyMRemoteNG-1.6.0.zip" length="5845487" type="application/octet-stream" sparkle:edSignature="K7YuH/TDafiURDB+PhSdHLhsb1LomyrcD2nYDLfSxz0vxFUOvYKKMqgkf5298FgicThrC9oBQXn8rJWt25mwBw=="/>
     </item>
     <item>
@@ -53,7 +53,7 @@
       <sparkle:version>1.5.1</sparkle:version>
       <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Windows ya no muestra la unidad compartida «Mac» al conectar: los archivos se pasan copiando y pegando (⌘C y ⌘V). Si arrastras archivos a la sesión, quedan listos para pegarlos con ⌘V en la carpeta de Windows que quieras. La carpeta compartida sigue disponible en el menú Session.</p>]]></description>
+      <description><![CDATA[<p>Windows no longer shows the shared “Mac” drive when you connect: files move by copy and paste (⌘C and ⌘V). Files you drag onto the session are ready to paste with ⌘V in any Windows folder. The shared folder is still available in the Session menu.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.5.1/MyMRemoteNG-1.5.1.zip" length="5843986" type="application/octet-stream" sparkle:edSignature="G1qGSif6YLN366l3PkhDXXNl7f+zciX1F9Xe3NCHV0nrwyfVkV/BFIFWlQqN6NBLR8LL3AmqFWBo505sqSswBw=="/>
     </item>
     <item>
@@ -62,7 +62,7 @@
       <sparkle:version>1.5.0</sparkle:version>
       <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Ahora puedes copiar y pegar archivos y carpetas entre el Mac y Windows en las sesiones de Escritorio remoto: copia en el Finder con ⌘C y pega en Windows con ⌘V, o copia en Windows y pega en el Finder.</p>]]></description>
+      <description><![CDATA[<p>You can now copy and paste files and folders between the Mac and Windows in Remote Desktop sessions: copy in the Finder with ⌘C and paste in Windows with ⌘V, or copy in Windows and paste in the Finder.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.5.0/MyMRemoteNG-1.5.0.zip" length="5843277" type="application/octet-stream" sparkle:edSignature="IW/555yw2ABcbmPcOf2lDUBYb0otNCrOaikv+b86DBVg04BoDnMWgcnqOurpsb4C45rBsq7f0drhE2FRKpx9AA=="/>
     </item>
     <item>
@@ -89,7 +89,7 @@
       <sparkle:version>1.2.0</sparkle:version>
       <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>El panel de propiedades de la derecha se muestra u oculta con el botón de la barra (o ⌥⌘I) y la app recuerda cómo lo dejaste. Respeta el tema claro u oscuro del Mac: los iconos de conexiones y pestañas se ven blancos en modo oscuro y la terminal cambia de colores con el tema.</p>]]></description>
+      <description><![CDATA[<p>The properties panel on the right shows or hides with the toolbar button (or ⌥⌘I), and the app remembers how you left it. It follows the Mac's light or dark appearance: connection and tab icons turn white in Dark Mode and the terminal changes colors with the theme.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.2.0/MyMRemoteNG-1.2.0.zip" length="5821111" type="application/octet-stream" sparkle:edSignature="21c/mpPPvrecmrYeeM+k3uheUi40+kWAvPLBiP69kCocftjVCHmb6D72/h9YEvEwGcjYIejd4sAfKwIsA/MIBA=="/>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <sparkle:version>1.1.1</sparkle:version>
       <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Arregla la conexión a escritorios remotos de Windows que piden autenticación de red (NLA): ya no sale «No se pudo conectar con el servidor». Los mensajes de error muestran también el código técnico.</p>]]></description>
+      <description><![CDATA[<p>Fixes connecting to Windows remote desktops that require Network Level Authentication (NLA): “Could not connect to the server” no longer appears. Error messages also show the technical code.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.1.1/MyMRemoteNG-1.1.1.zip" length="5815992" type="application/octet-stream" sparkle:edSignature="cIAKr8Mp+8Xf7pfKH8EoEExvgSCSAf8nuNEFqLvNon99gEcFswgCla9iCv+Be5+Y8aBlKaCUZXkEWaDeFk1ZAQ=="/>
     </item>
     <item>
@@ -107,7 +107,7 @@
       <sparkle:version>1.1.0</sparkle:version>
       <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Escritorio remoto (RDP) integrado: las conexiones RDP se abren en una pestaña de la app, sin Windows App. Ajusta el tamaño a la ventana, copia y pega texto, pide la contraseña si falta y usa ⌘ como Ctrl (⌘C, ⌘V).</p>]]></description>
+      <description><![CDATA[<p>Built-in Remote Desktop (RDP): RDP connections open in a tab of the app, without Windows App. The desktop fits the window, text copy and paste works, it asks for the password if it's missing, and ⌘ acts as Ctrl (⌘C, ⌘V).</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.1.0/MyMRemoteNG-1.1.0.zip" length="5812128" type="application/octet-stream" sparkle:edSignature="cvzfuQH2R6zSNmDsBIguCx8kPtLGwryAbx2Td2ZweS0i3waonij1tzJAxPo77wAMFb+NpxNi4ZDrkWNqbS0VAg=="/>
     </item>
     <item>
@@ -116,7 +116,7 @@
       <sparkle:version>1.0.0</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Primera versión: archivos confCons.xml de mRemoteNG, sesiones SSH, Telnet, Raw, web y VNC/ARD en pestañas, RDP con Windows App.</p>]]></description>
+      <description><![CDATA[<p>First version: mRemoteNG confCons.xml files; SSH, Telnet, Raw, web and VNC/ARD sessions in tabs; RDP through Windows App.</p>]]></description>
       <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.0.0/MyMRemoteNG-1.0.0.zip" length="2526849" type="application/octet-stream" sparkle:edSignature="tbljPGHFXncw31tsxDf3iPfzsSDZXUIdP1Rmc/kl7mTyAcOMJrs+Y1HBexEvBoJz3sxJN4jaZteoatKnHdBKAg=="/>
     </item>
   </channel>
