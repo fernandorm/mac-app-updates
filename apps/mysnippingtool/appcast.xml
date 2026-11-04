@@ -3,6 +3,15 @@
   <channel>
     <title>MySnippingTool</title>
     <item>
+      <title>MySnippingTool 1.2.1</title>
+      <pubDate>Wed, 04 Nov 2026 04:45:34 +0000</pubDate>
+      <sparkle:version>1.2.1</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Después de cada captura se abre el editor automáticamente. Si prefieres la miniatura flotante, cámbialo en Ajustes → General → After a capture.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.2.1/MySnippingTool-1.2.1.zip" length="2415756" type="application/octet-stream" sparkle:edSignature="pV1WfGqAAngHeMr8Rpmp417fg264+ZbOqxvHY0vfKIHjsPLdkWVMVimETE8ZILQk05W2M3ypBrpWu+RAw3UIDw=="/>
+    </item>
+    <item>
       <title>MySnippingTool 1.2.0</title>
       <pubDate>Wed, 04 Nov 2026 04:42:55 +0000</pubDate>
       <sparkle:version>1.2.0</sparkle:version>
