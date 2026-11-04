@@ -3,6 +3,15 @@
   <channel>
     <title>MyWinSCP</title>
     <item>
+      <title>MyWinSCP 1.4.2</title>
+      <pubDate>Wed, 04 Nov 2026 16:35:13 +0000</pubDate>
+      <sparkle:version>1.4.2</sparkle:version>
+      <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Ahora conecta con servidores SFTP corporativos (AWS Transfer, GoAnywhere, MOVEit) que antes fallaban con un error de negociación SSH.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mywinscp-v1.4.2/MyWinSCP-1.4.2.zip" length="7985541" type="application/octet-stream" sparkle:edSignature="HI1M76Ga5bJ2aweKxSjbZv89apQhlzKO9wfzZpAfNaWnKaEUdKPsbCkTVfqeKzG43UXZEEjGVWCo+JHLDmyyDg=="/>
+    </item>
+    <item>
       <title>MyWinSCP 1.4.1</title>
       <pubDate>Wed, 04 Nov 2026 14:39:54 +0000</pubDate>
       <sparkle:version>1.4.1</sparkle:version>
