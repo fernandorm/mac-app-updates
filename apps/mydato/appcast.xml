@@ -3,6 +3,15 @@
   <channel>
     <title>MyDato</title>
     <item>
+      <title>MyDato 1.1.1</title>
+      <pubDate>Wed, 04 Nov 2026 19:19:06 +0000</pubDate>
+      <sparkle:version>1.1.1</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The update window is now always in English.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mydato-v1.1.1/MyDato-1.1.1.zip" length="2806062" type="application/octet-stream" sparkle:edSignature="mDUiGsR2If5Dp3hR4JhgNJd9ugFKfFaCplK3aR0pfHDiBa0dU/3BKZsN4b036xX4Yn0fuWlCN8Re+wu1nCFYCg=="/>
+    </item>
+    <item>
       <title>MyDato 1.1.0</title>
       <pubDate>Sun, 01 Nov 2026 19:43:00 +0000</pubDate>
       <sparkle:version>1.1.0</sparkle:version>
