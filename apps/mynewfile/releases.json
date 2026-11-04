@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.3.1",
+    "shortVersion": "1.3.1",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mynewfile-v1.3.1/MyNewFile-1.3.1.zip",
+    "length": 1765888,
+    "signature": "e+SzwCR/+4ZGAIZaDSNDiF8LcKDPnQ8c5rBLBo8Ux6+UbJveVJYMxIJ6pbRYP+/mgHAydyWn1Yw5kWQGKEwYBQ==",
+    "notes": "The update window is now always in English.",
+    "pubDate": "Wed, 04 Nov 2026 20:14:40 +0000"
+  },
+  {
     "version": "1.3.0",
     "shortVersion": "1.3.0",
     "minimumSystemVersion": "14.0",
