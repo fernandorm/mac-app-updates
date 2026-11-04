@@ -7,7 +7,12 @@
     "length": 2689255,
     "signature": "OKcxR8AOOUdiuL14dGrcxgPcJs2t5/+Qt46bxdulWsb5DrPsdhx8bXTRmOV8GJ1kQ7BRLP7WJV5YyoHUeGiZAw==",
     "notes": "Everywhere detecta correctamente el Acceso total al disco en macOS 27: tras activarlo, la bienvenida muestra la marca verde y el índice incluye las carpetas protegidas.",
-    "pubDate": "Wed, 04 Nov 2026 04:14:25 +0000"
+    "pubDate": "Wed, 04 Nov 2026 04:14:25 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.0.2/Everywhere-1.0.2.dmg",
+      "length": 4477310,
+      "sha256": "0f811eb222983e2d05d9f49572bec06af8f8f3ed155f1becdbc3dd1fe7b141f2"
+    }
   },
   {
     "version": "1.0.1",
