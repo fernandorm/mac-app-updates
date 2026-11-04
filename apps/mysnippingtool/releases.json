@@ -7,7 +7,12 @@
     "length": 2300988,
     "signature": "tHi3XK59rJPb8CGagssnlyBs8ToksxCw8TdHmvjqZxMe5Ns2+EC9/vjtAxBpN+HA0DyzL7nEIH/eBOV2um/RAg==",
     "notes": "The update window is now always in English.",
-    "pubDate": "Wed, 04 Nov 2026 20:00:08 +0000"
+    "pubDate": "Wed, 04 Nov 2026 20:00:08 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.4.1/MySnippingTool-1.4.1.dmg",
+      "length": 3873186,
+      "sha256": "a008b979d0c7ed372d533998742dc501b796e013a532f9d92a20b57df21bbb1a"
+    }
   },
   {
     "version": "1.4.0",
