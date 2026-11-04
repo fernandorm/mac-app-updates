@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.4.0",
+    "shortVersion": "1.4.0",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mywinscp-v1.4.0/MyWinSCP-1.4.0.zip",
+    "length": 7981093,
+    "signature": "IleNFAbAde+W4b5w2XKc52yZebHTAYZtZ2Sf3bwmaGPJg87gkmUYv5kglsP9JEN9ZWcjNdRmk6M/fBYY1VVdDg==",
+    "notes": "Importar y exportar la configuración de WinSCP (WinSCP.ini) desde el menú File o arrastrando el archivo a la lista de sitios. El aviso de claves .ppk ahora solo indica si falta copiar la clave a este Mac.",
+    "pubDate": "Wed, 04 Nov 2026 13:48:44 +0000"
+  },
+  {
     "version": "1.3.0",
     "shortVersion": "1.3.0",
     "minimumSystemVersion": "14.0",

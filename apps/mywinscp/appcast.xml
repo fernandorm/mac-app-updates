@@ -3,6 +3,15 @@
   <channel>
     <title>MyWinSCP</title>
     <item>
+      <title>MyWinSCP 1.4.0</title>
+      <pubDate>Wed, 04 Nov 2026 13:48:44 +0000</pubDate>
+      <sparkle:version>1.4.0</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Importar y exportar la configuración de WinSCP (WinSCP.ini) desde el menú File o arrastrando el archivo a la lista de sitios. El aviso de claves .ppk ahora solo indica si falta copiar la clave a este Mac.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mywinscp-v1.4.0/MyWinSCP-1.4.0.zip" length="7981093" type="application/octet-stream" sparkle:edSignature="IleNFAbAde+W4b5w2XKc52yZebHTAYZtZ2Sf3bwmaGPJg87gkmUYv5kglsP9JEN9ZWcjNdRmk6M/fBYY1VVdDg=="/>
+    </item>
+    <item>
       <title>MyWinSCP 1.3.0</title>
       <pubDate>Wed, 04 Nov 2026 13:27:41 +0000</pubDate>
       <sparkle:version>1.3.0</sparkle:version>
