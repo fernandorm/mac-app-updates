@@ -3,6 +3,15 @@
   <channel>
     <title>Everywhere</title>
     <item>
+      <title>Everywhere 1.2.0</title>
+      <pubDate>Wed, 04 Nov 2026 05:43:54 +0000</pubDate>
+      <sparkle:version>1.2.0</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Nuevo: lo que buscas sale en negrita; ↑ recupera búsquedas recientes; filtros rápidos (Audio, Video, Imágenes, Documentos, Comprimidos, Apps, Carpetas) con ⌃1…⌃7; columna y búsqueda por fecha de creación (dc:); columnas Kind y Extension (clic derecho en la cabecera); Open With, Open in Terminal, Rename (F2) y Copy Folder Path; ventana flotante tipo Spotlight en Settings. Más seguro: pide confirmación al abrir muchos archivos o mandar más de 10 a la Papelera, y ⌘Z deshace la Papelera y los renombres. El índice se reconstruye una vez al actualizar.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.2.0/Everywhere-1.2.0.zip" length="2769066" type="application/octet-stream" sparkle:edSignature="nx80AumtWFggvD9EFYjmVAyEooah741lpAfbIybYwIZ31q3Q6OA6N/+B8xERLhqzQsOUGfeiaMkIJAXyzAqvBg=="/>
+    </item>
+    <item>
       <title>Everywhere 1.1.0</title>
       <pubDate>Wed, 04 Nov 2026 04:20:33 +0000</pubDate>
       <sparkle:version>1.1.0</sparkle:version>
