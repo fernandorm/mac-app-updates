@@ -7,7 +7,12 @@
     "length": 5845286,
     "signature": "G74EDjlRMS77D+LXK0T0PjYKYua/s9IC9B5Pc/ngPVNaIvcjChr/1N47dD1pHGwmgmC4zuhwKOx7DZQTXOp9AQ==",
     "notes": "The update window is now always in English.",
-    "pubDate": "Wed, 04 Nov 2026 19:36:16 +0000"
+    "pubDate": "Wed, 04 Nov 2026 19:36:16 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.9.1/MyMRemoteNG-1.9.1.dmg",
+      "length": 7240292,
+      "sha256": "ef5c87896dd0543bd8270d930de8d00fce755b95093c5faafaf3b0a0d0f4caeb"
+    }
   },
   {
     "version": "1.9.0",
