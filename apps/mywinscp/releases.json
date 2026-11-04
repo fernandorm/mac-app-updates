@@ -7,7 +7,12 @@
     "length": 7872821,
     "signature": "oXIru/4433A7XvhU50Xj0s9ODKiRLF9ZJwYu1EzzIcAZBcThcnYM4+RbcHWtaOVcFNWHFwVxbkbWsflSV21VBw==",
     "notes": "Dragging files from Finder onto the server panel now uploads them.",
-    "pubDate": "Wed, 04 Nov 2026 20:33:33 +0000"
+    "pubDate": "Wed, 04 Nov 2026 20:33:33 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mywinscp-v1.4.4/MyWinSCP-1.4.4.dmg",
+      "length": 9528345,
+      "sha256": "0c5f694350a7e32040109efc635b0fbd34a4d81b3dfe7a7158f0a24d0f003841"
+    }
   },
   {
     "version": "1.4.3",
