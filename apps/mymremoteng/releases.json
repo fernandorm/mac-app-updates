@@ -7,7 +7,12 @@
     "length": 5854286,
     "signature": "UeGr+G5G6Nu+g7gw9g0YO8hiLs+298AIhDjXvY3QuWOZ5bh8LGhcikQQDVBrWbSdU8iFdkhY7VR4THqF0JS/CA==",
     "notes": "Showing a saved password now asks for Touch ID or your Mac password first. Once unlocked, passwords stay visible for 5 minutes and hide again when the Mac sleeps or the screen locks. Inherited passwords can now be shown too.",
-    "pubDate": "Thu, 05 Nov 2026 13:43:17 +0000"
+    "pubDate": "Thu, 05 Nov 2026 13:43:17 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.10.0/MyMRemoteNG-1.10.0.dmg",
+      "length": 7249036,
+      "sha256": "ad1a487be1136a628afeca21edebc4cb9d6a34d5d776d528142dbe051093aa29"
+    }
   },
   {
     "version": "1.9.1",
