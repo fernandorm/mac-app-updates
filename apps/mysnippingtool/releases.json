@@ -7,7 +7,12 @@
     "length": 2293593,
     "signature": "Z6bGhv18OGEilJ68tmruSaN0IgYJ2QbcZPMNttiqzZWUxykBbXbsG1YkGe1pfJmHe7n8dlD9WMGvNVJXHg95Aw==",
     "notes": "Cleaner editor toolbar: only the Save button and the copy icon remain. The shortcuts ⌘T (copy text), ⌘P (pin) and ⇧⌘S (save as) still work.",
-    "pubDate": "Thu, 05 Nov 2026 05:03:26 +0000"
+    "pubDate": "Thu, 05 Nov 2026 05:03:26 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.4.2/MySnippingTool-1.4.2.dmg",
+      "length": 3860626,
+      "sha256": "2247d24b87e1b15c7eba8e2a1898efd863a8a38f63b2fc02c28318bad8906544"
+    }
   },
   {
     "version": "1.4.1",
