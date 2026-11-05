@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.4.0",
+    "shortVersion": "1.4.0",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.4.0/Everywhere-1.4.0.zip",
+    "length": 2690872,
+    "signature": "nQenK4xgSKom467iaHbKYoA5+OxMT4TAAJJeFkXSB4Zf5XYF1nN22Iy57d7qN+rIanbn8y4Bp/6w91GjLB9qBw==",
+    "notes": "Nuevo: al seleccionar un archivo ves su vista previa y su información (tipo, tamaño, dimensiones de las imágenes, ubicación y fechas) en un panel a la derecha; ⇧⌘P lo muestra u oculta. La ventana es más grande para que quepa todo. Esc ahora cierra la ventana y conserva la búsqueda para la próxima vez.",
+    "pubDate": "Thu, 05 Nov 2026 05:02:42 +0000"
+  },
+  {
     "version": "1.3.1",
     "shortVersion": "1.3.1",
     "minimumSystemVersion": "14.0",
