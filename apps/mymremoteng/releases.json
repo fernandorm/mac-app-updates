@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.10.1",
+    "shortVersion": "1.10.1",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.10.1/MyMRemoteNG-1.10.1.zip",
+    "length": 5855198,
+    "signature": "OsaIXoTVQFVdUBfJSK4J5WOr6gwbJ1k3KMfK1svhH0Mcq0GiEeUdJYHY3cZw0YBASN5im70TlUl8lDM7tmABDA==",
+    "notes": "Copy Password now asks for Touch ID or your Mac password before copying, just like showing a password.",
+    "pubDate": "Thu, 05 Nov 2026 13:49:10 +0000"
+  },
+  {
     "version": "1.10.0",
     "shortVersion": "1.10.0",
     "minimumSystemVersion": "14.0",
