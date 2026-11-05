@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.3.0",
+    "shortVersion": "1.3.0",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/recast-v1.3.0/ReCast-1.3.0.zip",
+    "length": 4036317,
+    "signature": "bScFc7MjUJE1SpLhco0mU/gNc529cUk08eIKEE6dFOQhkqAMk0OaGX9WrYU2YeRfHy54B/PKPaOgiZjtVOQSCA==",
+    "notes": "Streams survive short Internet slowdowns: ReCast now buffers about 10 seconds of video on the way to Facebook instead of cutting the live after half a second. The upload speed is written to the log every minute, with a warning when it drops, and the messages after a connection drop are clearer.",
+    "pubDate": "Thu, 05 Nov 2026 02:48:03 +0000"
+  },
+  {
     "version": "1.2.1",
     "shortVersion": "1.2.1",
     "minimumSystemVersion": "14.0",
