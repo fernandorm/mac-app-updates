@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.2.0",
+    "shortVersion": "1.2.0",
+    "minimumSystemVersion": "26.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.2.0/ClipMaker-1.2.0.zip",
+    "length": 5888771,
+    "signature": "Qf6LwHITtYSApx8npCQe8EM0v/2toXBXEQ/td5DnYJiQRgHmhJCHMNC8wgULtOJjLPoYsCbSFxZnV6rmBUcEDQ==",
+    "notes": "Right-click a video in an edit's Media panel (or in the links list) and choose Show in Finder to open the folder where it is saved. Links can also be copied from the right-click menu.",
+    "pubDate": "Sat, 07 Nov 2026 13:24:09 +0000"
+  },
+  {
     "version": "1.1.1",
     "shortVersion": "1.1.1",
     "minimumSystemVersion": "26.0",
