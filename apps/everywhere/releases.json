@@ -7,7 +7,12 @@
     "length": 2696090,
     "signature": "uIx28MsZKUcYZb3ao0UHHr+GW40WKtP21NqluuxcjibokHYM+BC3wyk5ikuGY//tAK8nvwoueRAqtRl2c3K0AQ==",
     "notes": "Copy a file or folder path (for example with Finder's Copy as Pathname) and press the shortcut: Everywhere opens already searching for it.",
-    "pubDate": "Sun, 08 Nov 2026 02:48:03 +0000"
+    "pubDate": "Sun, 08 Nov 2026 02:48:03 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.5.0/Everywhere-1.5.0.dmg",
+      "length": 4541958,
+      "sha256": "80b34412fee8a2c27b46b723575329791e7206f56fa8c96ef47ee884e75e751a"
+    }
   },
   {
     "version": "1.4.1",
