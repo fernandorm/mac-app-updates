@@ -3,6 +3,15 @@
   <channel>
     <title>ClipMaker</title>
     <item>
+      <title>ClipMaker 1.4.0</title>
+      <pubDate>Sun, 08 Nov 2026 17:38:12 +0000</pubDate>
+      <sparkle:version>1.4.0</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New in the video editor: a Mute track button at the left of each track (video and every audio row) mutes or unmutes the whole track in one click — for example, mute Background after separating voice and background.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.4.0/ClipMaker-1.4.0.zip" length="5945799" type="application/octet-stream" sparkle:edSignature="ib1TtHpDAujQLV06Cp6wejz4csoqFYsSEpsyt34jr6NNWdxVDwJTe7Yyga/coop8BvvjZxqAD+ubuYVxNhIdBQ=="/>
+    </item>
+    <item>
       <title>ClipMaker 1.3.0</title>
       <pubDate>Sun, 08 Nov 2026 17:16:25 +0000</pubDate>
       <sparkle:version>1.3.0</sparkle:version>

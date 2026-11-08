@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.4.0",
+    "shortVersion": "1.4.0",
+    "minimumSystemVersion": "26.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.4.0/ClipMaker-1.4.0.zip",
+    "length": 5945799,
+    "signature": "ib1TtHpDAujQLV06Cp6wejz4csoqFYsSEpsyt34jr6NNWdxVDwJTe7Yyga/coop8BvvjZxqAD+ubuYVxNhIdBQ==",
+    "notes": "New in the video editor: a Mute track button at the left of each track (video and every audio row) mutes or unmutes the whole track in one click — for example, mute Background after separating voice and background.",
+    "pubDate": "Sun, 08 Nov 2026 17:38:12 +0000"
+  },
+  {
     "version": "1.3.0",
     "shortVersion": "1.3.0",
     "minimumSystemVersion": "26.0",
