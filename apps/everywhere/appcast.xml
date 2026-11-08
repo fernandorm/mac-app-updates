@@ -3,6 +3,15 @@
   <channel>
     <title>Everywhere</title>
     <item>
+      <title>Everywhere 1.5.0</title>
+      <pubDate>Sun, 08 Nov 2026 02:48:03 +0000</pubDate>
+      <sparkle:version>1.5.0</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Copy a file or folder path (for example with Finder's Copy as Pathname) and press the shortcut: Everywhere opens already searching for it.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.5.0/Everywhere-1.5.0.zip" length="2696090" type="application/octet-stream" sparkle:edSignature="uIx28MsZKUcYZb3ao0UHHr+GW40WKtP21NqluuxcjibokHYM+BC3wyk5ikuGY//tAK8nvwoueRAqtRl2c3K0AQ=="/>
+    </item>
+    <item>
       <title>Everywhere 1.4.1</title>
       <pubDate>Sun, 08 Nov 2026 02:28:33 +0000</pubDate>
       <sparkle:version>1.4.1</sparkle:version>
