@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.6.0",
+    "shortVersion": "1.6.0",
+    "minimumSystemVersion": "26.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.6.0/ClipMaker-1.6.0.zip",
+    "length": 5998185,
+    "signature": "g3CQ09J4H14pA2L3z2NLlH61J6k45reCsMEaqTJUakNj84zRn5k7pVks+p6eG24bqyWPBJZj5xxUjqnExaURBg==",
+    "notes": "Copy and paste sound in the video editor: select an audio clip or a piece and press Cmd+C (mark I and O first to copy only part of it), then Cmd+V pastes it at the playhead — on another audio track if something already plays there.",
+    "pubDate": "Sun, 08 Nov 2026 18:18:33 +0000"
+  },
+  {
     "version": "1.5.1",
     "shortVersion": "1.5.1",
     "minimumSystemVersion": "26.0",
