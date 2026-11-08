@@ -3,6 +3,15 @@
   <channel>
     <title>ClipMaker</title>
     <item>
+      <title>ClipMaker 1.5.1</title>
+      <pubDate>Sun, 08 Nov 2026 18:06:39 +0000</pubDate>
+      <sparkle:version>1.5.1</sparkle:version>
+      <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>You can now stop a voice/background separation in progress with the Cancel button next to its progress bar; the edit stays as it was.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.5.1/ClipMaker-1.5.1.zip" length="5985774" type="application/octet-stream" sparkle:edSignature="Gme6KkWOqngHB9OUFQljQlCjQKOjjrzmT0EOokKI0llQ/9bB3qLIeJxVY1ZScijRpTLP6oBbcw0RDyhOJQAqBw=="/>
+    </item>
+    <item>
       <title>ClipMaker 1.5.0</title>
       <pubDate>Sun, 08 Nov 2026 17:55:06 +0000</pubDate>
       <sparkle:version>1.5.0</sparkle:version>

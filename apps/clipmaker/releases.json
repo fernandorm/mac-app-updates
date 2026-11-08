@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.5.1",
+    "shortVersion": "1.5.1",
+    "minimumSystemVersion": "26.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.5.1/ClipMaker-1.5.1.zip",
+    "length": 5985774,
+    "signature": "Gme6KkWOqngHB9OUFQljQlCjQKOjjrzmT0EOokKI0llQ/9bB3qLIeJxVY1ZScijRpTLP6oBbcw0RDyhOJQAqBw==",
+    "notes": "You can now stop a voice/background separation in progress with the Cancel button next to its progress bar; the edit stays as it was.",
+    "pubDate": "Sun, 08 Nov 2026 18:06:39 +0000"
+  },
+  {
     "version": "1.5.0",
     "shortVersion": "1.5.0",
     "minimumSystemVersion": "26.0",
