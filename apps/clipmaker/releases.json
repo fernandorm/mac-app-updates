@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.3.0",
+    "shortVersion": "1.3.0",
+    "minimumSystemVersion": "26.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.3.0/ClipMaker-1.3.0.zip",
+    "length": 5933781,
+    "signature": "5F4QTTnhkC+w33g04VWn513fGZ7HqmgAV44lzB/7hygdl0QhkPMcHyZgae0tXD0oBCUeKePvwEiWsSAH0oXWCQ==",
+    "notes": "New in the video editor: Separate voice and background. Right-click a piece or an audio clip to split its sound into two tracks — the voice alone and the music/noise — so you can lower, remove or replace either one. Everything is processed on your Mac.",
+    "pubDate": "Sun, 08 Nov 2026 17:16:25 +0000"
+  },
+  {
     "version": "1.2.0",
     "shortVersion": "1.2.0",
     "minimumSystemVersion": "26.0",
