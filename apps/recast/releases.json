@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.4.0",
+    "shortVersion": "1.4.0",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/recast-v1.4.0/ReCast-1.4.0.zip",
+    "length": 4076159,
+    "signature": "OX6E2CLVRqwBBd2d5hTMuVOWChxcmCvN9muPi9rEuTAOiJNPXM65JTb3/KssIHkmlbvG63Tzu37kPEujObSXBw==",
+    "notes": "Auto Live now looks for the YouTube premiere announcement up to 6 hours before each scheduled time. When the channel schedules the episode, you get a Telegram message with its time, the thumbnail and start time (in Cuban time) are posted on your Facebook Page, and if the premiere starts earlier than your scheduled time, Auto Live starts watching 10 minutes before it. The post text can be edited in Auto Live.",
+    "pubDate": "Sun, 08 Nov 2026 01:46:36 +0000"
+  },
+  {
     "version": "1.3.0",
     "shortVersion": "1.3.0",
     "minimumSystemVersion": "14.0",
