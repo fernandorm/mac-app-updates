@@ -3,6 +3,15 @@
   <channel>
     <title>Everywhere</title>
     <item>
+      <title>Everywhere 1.4.1</title>
+      <pubDate>Sun, 08 Nov 2026 02:28:33 +0000</pubDate>
+      <sparkle:version>1.4.1</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Audio and video in the preview now stop playing when you press Esc or switch to another app.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.4.1/Everywhere-1.4.1.zip" length="2693359" type="application/octet-stream" sparkle:edSignature="0XcCjgeMY/BD4HpvKntFCCZJ7tfAwDmeT9NHfA6jyZ50jCjlbHmkbp0vSBqXqCvYJAIRO0akIf3tZRrtqIAPDg=="/>
+    </item>
+    <item>
       <title>Everywhere 1.4.0</title>
       <pubDate>Thu, 05 Nov 2026 05:02:42 +0000</pubDate>
       <sparkle:version>1.4.0</sparkle:version>

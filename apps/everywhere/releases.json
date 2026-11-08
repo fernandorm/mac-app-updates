@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.4.1",
+    "shortVersion": "1.4.1",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.4.1/Everywhere-1.4.1.zip",
+    "length": 2693359,
+    "signature": "0XcCjgeMY/BD4HpvKntFCCZJ7tfAwDmeT9NHfA6jyZ50jCjlbHmkbp0vSBqXqCvYJAIRO0akIf3tZRrtqIAPDg==",
+    "notes": "Audio and video in the preview now stop playing when you press Esc or switch to another app.",
+    "pubDate": "Sun, 08 Nov 2026 02:28:33 +0000"
+  },
+  {
     "version": "1.4.0",
     "shortVersion": "1.4.0",
     "minimumSystemVersion": "14.0",
