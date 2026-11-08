@@ -3,6 +3,15 @@
   <channel>
     <title>ClipMaker</title>
     <item>
+      <title>ClipMaker 1.5.0</title>
+      <pubDate>Sun, 08 Nov 2026 17:55:06 +0000</pubDate>
+      <sparkle:version>1.5.0</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>High-quality voice separation: an optional one-time install (Demucs, about 1 GB, runs on your Mac) separates voices from music much more cleanly — voices no longer leak into the Background track. A piece you already separated can be separated again to replace its tracks.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.5.0/ClipMaker-1.5.0.zip" length="5981329" type="application/octet-stream" sparkle:edSignature="ywy/EMshcYtr1iX5SAeTsB6VTfNNNx0pKqqwL2KmCpEB6SRSLv6VGWwUpy2ggVxxSr5Q8AH8DWt+f9N7ZWpHAQ=="/>
+    </item>
+    <item>
       <title>ClipMaker 1.4.0</title>
       <pubDate>Sun, 08 Nov 2026 17:38:12 +0000</pubDate>
       <sparkle:version>1.4.0</sparkle:version>
