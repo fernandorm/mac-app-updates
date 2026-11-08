@@ -7,7 +7,12 @@
     "length": 2693359,
     "signature": "0XcCjgeMY/BD4HpvKntFCCZJ7tfAwDmeT9NHfA6jyZ50jCjlbHmkbp0vSBqXqCvYJAIRO0akIf3tZRrtqIAPDg==",
     "notes": "Audio and video in the preview now stop playing when you press Esc or switch to another app.",
-    "pubDate": "Sun, 08 Nov 2026 02:28:33 +0000"
+    "pubDate": "Sun, 08 Nov 2026 02:28:33 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.4.1/Everywhere-1.4.1.dmg",
+      "length": 4539769,
+      "sha256": "c13c4eabfc173f736ba3b3cebf1f1badfa700a77ee215fff987e288b0c36c718"
+    }
   },
   {
     "version": "1.4.0",
