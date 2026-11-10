@@ -3,6 +3,15 @@
   <channel>
     <title>ReCast</title>
     <item>
+      <title>ReCast 1.4.1</title>
+      <pubDate>Tue, 10 Nov 2026 01:59:49 +0000</pubDate>
+      <sparkle:version>1.4.1</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Auto Live now finds a scheduled premiere on the channel's home page hours ahead, so the Facebook announcement goes out on time, and catches the start of the countdown within seconds instead of a minute or more.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/recast-v1.4.1/ReCast-1.4.1.zip" length="4088779" type="application/octet-stream" sparkle:edSignature="NcKhQp9C3p0hmZU8DGXy3fWI/EkJkBJbiVPdBSUqzhm7AE6ovKATgynWS9xTx3VBivIfXlLnVu0iqPdr7FN9DA=="/>
+    </item>
+    <item>
       <title>ReCast 1.4.0</title>
       <pubDate>Sun, 08 Nov 2026 01:46:36 +0000</pubDate>
       <sparkle:version>1.4.0</sparkle:version>
