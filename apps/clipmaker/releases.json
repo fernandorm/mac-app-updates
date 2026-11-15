@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.6.1",
+    "shortVersion": "1.6.1",
+    "minimumSystemVersion": "26.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.6.1/ClipMaker-1.6.1.zip",
+    "length": 5997664,
+    "signature": "H9dy9m5rkjTcqEDAizC4pRfZLfvmzeIUZ1g6EkGm232y5sPsZ78uwNu5gNglxidxxzaJwfOcp4E/cPIxXVnCAQ==",
+    "notes": "Fixed: after making a Reel from the video editor with \"One Reel with the whole edit\", every new video came out as a single full-length clip instead of short clips. That Reel no longer changes what you chose for other videos.",
+    "pubDate": "Sun, 15 Nov 2026 19:23:36 +0000"
+  },
+  {
     "version": "1.6.0",
     "shortVersion": "1.6.0",
     "minimumSystemVersion": "26.0",
