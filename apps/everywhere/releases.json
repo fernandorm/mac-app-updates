@@ -7,7 +7,12 @@
     "length": 2696367,
     "signature": "VPCWs5Z8xN9wm8N8/BzoD3Uou+dIUaxiJcD3d8cMMwsuP8LTP5Ks87f/sdgFTlJT79Zrc7Ml+NvmBnw7K8YpBQ==",
     "notes": "Fixes memory use that kept growing while Everywhere stayed open for days (up to several GB), along with the CPU use that came with it. The index now cleans out deleted files in the background, so memory stays steady.",
-    "pubDate": "Sun, 15 Nov 2026 05:22:36 +0000"
+    "pubDate": "Sun, 15 Nov 2026 05:22:36 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/everywhere-v1.5.1/Everywhere-1.5.1.dmg",
+      "length": 4542385,
+      "sha256": "12c3a6d08b76a4f4fdc5cc37e9bbe5d94b89546d80d0472bf4eb57134d738b90"
+    }
   },
   {
     "version": "1.5.0",
