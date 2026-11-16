@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.8.0",
+    "shortVersion": "1.8.0",
+    "minimumSystemVersion": "26.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.8.0/ClipMaker-1.8.0.zip",
+    "length": 6012461,
+    "signature": "NRLnC/8vBW0i5HxZ8jH9FxgqsTvafR8T5JoWlvzMBurIcHNAZYKSakl2u/0dq6HgMmqbVZkFfJ5D+GuVZxXEDQ==",
+    "notes": "New clips now start unticked for export, so only the ones you choose are exported and sent to ContentPilot. You can tick a clip with the new Export checkbox next to its title in the editor; ticked clips show ✓ in the editor's clip list.",
+    "pubDate": "Mon, 16 Nov 2026 01:22:02 +0000"
+  },
+  {
     "version": "1.7.0",
     "shortVersion": "1.7.0",
     "minimumSystemVersion": "26.0",
