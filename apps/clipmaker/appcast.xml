@@ -3,6 +3,15 @@
   <channel>
     <title>ClipMaker</title>
     <item>
+      <title>ClipMaker 1.7.0</title>
+      <pubDate>Mon, 16 Nov 2026 00:21:38 +0000</pubDate>
+      <sparkle:version>1.7.0</sparkle:version>
+      <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Trimming a clip in the editor is now frame-accurate: while you drag a yellow edge you see the exact frame it lands on, and holding Option moves it slowly, frame by frame, without snapping to words or sentences. The ← → keys now step one frame (⇧← ⇧→ one second).</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.7.0/ClipMaker-1.7.0.zip" length="6011549" type="application/octet-stream" sparkle:edSignature="0Kehn93oJJTjEaIcjcfuI9hyXEUgtq08bk9zHsWAXEHB+C45o7BWcG2+b0hNDE2k1ugUDtRmIQAEtLBfzhT7Ag=="/>
+    </item>
+    <item>
       <title>ClipMaker 1.6.1</title>
       <pubDate>Sun, 15 Nov 2026 19:23:36 +0000</pubDate>
       <sparkle:version>1.6.1</sparkle:version>
