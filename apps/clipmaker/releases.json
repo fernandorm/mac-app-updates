@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.8.1",
+    "shortVersion": "1.8.1",
+    "minimumSystemVersion": "26.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.8.1/ClipMaker-1.8.1.zip",
+    "length": 6012602,
+    "signature": "3r1a8r6T/Nl+VqAhD3ggXhA29dvMQHWX08Ya8KSt6iwEavO4bqoHjoHy5gy51oAU4jEUF/DYiT1LmAkK9xYACw==",
+    "notes": "The editor timeline now shows the yellow start and end handles in full when a clip reaches the start or end of the video, so you can see and drag them. The clip length and the Title tab at the top are no longer cut off.",
+    "pubDate": "Tue, 17 Nov 2026 03:21:37 +0000"
+  },
+  {
     "version": "1.8.0",
     "shortVersion": "1.8.0",
     "minimumSystemVersion": "26.0",
