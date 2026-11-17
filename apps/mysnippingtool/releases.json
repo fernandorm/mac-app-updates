@@ -7,7 +7,12 @@
     "length": 2293949,
     "signature": "SbSH19/QZsAUxapm/lW9cuU63QS3oDwUig1c07Np5hzhZhjbijvP29pfC8UBgZagyFStDi7a3FP3u/Rpcdf6Cg==",
     "notes": "Images sent from other apps (such as Edit in MySnippingTool from MyPaste) now reuse an untouched editor window instead of opening a new one each time, so windows no longer pile up. Editors with changes and new screenshots keep their own window.",
-    "pubDate": "Tue, 17 Nov 2026 15:03:18 +0000"
+    "pubDate": "Tue, 17 Nov 2026 15:03:18 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.4.3/MySnippingTool-1.4.3.dmg",
+      "length": 3861319,
+      "sha256": "0ddca8a121100f8813109ee68c89191cb2a53714b7feb6e6e1624614255d2b2b"
+    }
   },
   {
     "version": "1.4.2",
