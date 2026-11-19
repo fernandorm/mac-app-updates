@@ -7,7 +7,12 @@
     "length": 5859583,
     "signature": "DRa0AXFLlhuN00hhsS+7Qo9r8E1kWK2MdbT3FjyAvOZau584e2fcTPgV+uUCqyHQhy6sBSL9+Nxkbc86Y3dmCA==",
     "notes": "Fixed a crash that could close the app by itself when the remote Windows machine sent a graphics reset while the session was ending.",
-    "pubDate": "Thu, 19 Nov 2026 14:46:18 +0000"
+    "pubDate": "Thu, 19 Nov 2026 14:46:18 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.10.4/MyMRemoteNG-1.10.4.dmg",
+      "length": 7259259,
+      "sha256": "46d1793158508bafbae2c1a38c7b9ee8284463fa2060f959beb0aa4bd6ec83f5"
+    }
   },
   {
     "version": "1.10.3",
