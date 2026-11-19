@@ -7,7 +7,12 @@
     "length": 5859626,
     "signature": "c+9JAjeaAjmlSUbtNXmQ/cDy9PG9ixXrSNo18h41kVA3IkMrvYEOScLzSParGKYCDUX6rkmmvXfaAWc5hQjiAg==",
     "notes": "Fixed the app freezing when pasting large files copied on a Windows machine (for example from Explorer in the remote session).",
-    "pubDate": "Thu, 19 Nov 2026 03:52:22 +0000"
+    "pubDate": "Thu, 19 Nov 2026 03:52:22 +0000",
+    "dmg": {
+      "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.10.3/MyMRemoteNG-1.10.3.dmg",
+      "length": 7259248,
+      "sha256": "0a82324779663997054d0875bc6489842150a3c4b97644a2d3e0041355973006"
+    }
   },
   {
     "version": "1.10.2",
