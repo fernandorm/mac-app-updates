@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.10.2",
+    "shortVersion": "1.10.2",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.10.2/MyMRemoteNG-1.10.2.zip",
+    "length": 5858742,
+    "signature": "sve0LLDXza+Lz7DpfEXY403q7fsroLuLErvvMxGSyUs13NVxI4cIOrxsymurvFAbQ/6KEdPccmmQlobb69pOBA==",
+    "notes": "Fixed the app freezing when copying something very large from a Windows machine. Copied text now transfers only when you paste it, and the app stays responsive while it arrives.",
+    "pubDate": "Thu, 19 Nov 2026 03:37:21 +0000"
+  },
+  {
     "version": "1.10.1",
     "shortVersion": "1.10.1",
     "minimumSystemVersion": "14.0",

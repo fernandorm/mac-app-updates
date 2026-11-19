@@ -3,6 +3,15 @@
   <channel>
     <title>MyMRemoteNG</title>
     <item>
+      <title>MyMRemoteNG 1.10.2</title>
+      <pubDate>Thu, 19 Nov 2026 03:37:21 +0000</pubDate>
+      <sparkle:version>1.10.2</sparkle:version>
+      <sparkle:shortVersionString>1.10.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixed the app freezing when copying something very large from a Windows machine. Copied text now transfers only when you paste it, and the app stays responsive while it arrives.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/mymremoteng-v1.10.2/MyMRemoteNG-1.10.2.zip" length="5858742" type="application/octet-stream" sparkle:edSignature="sve0LLDXza+Lz7DpfEXY403q7fsroLuLErvvMxGSyUs13NVxI4cIOrxsymurvFAbQ/6KEdPccmmQlobb69pOBA=="/>
+    </item>
+    <item>
       <title>MyMRemoteNG 1.10.1</title>
       <pubDate>Thu, 05 Nov 2026 13:49:10 +0000</pubDate>
       <sparkle:version>1.10.1</sparkle:version>
