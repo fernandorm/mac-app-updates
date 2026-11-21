@@ -3,6 +3,15 @@
   <channel>
     <title>ClipMaker</title>
     <item>
+      <title>ClipMaker 1.8.2</title>
+      <pubDate>Sat, 21 Nov 2026 13:05:17 +0000</pubDate>
+      <sparkle:version>1.8.2</sparkle:version>
+      <sparkle:shortVersionString>1.8.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Video editor: right-click a piece to move it to the start or end of the edit, or one place left or right. Short pieces on a long timeline can be dragged again (their trim handles no longer cover the whole piece).</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.8.2/ClipMaker-1.8.2.zip" length="6013567" type="application/octet-stream" sparkle:edSignature="sYEG2BUk5TTEPub1OdqxqGyh4JHxHa3bGhP0AyiSlMaSFIIcLiJuXD4fC4cnCK9/r5/IitfpQfzfX1iYG3YfDw=="/>
+    </item>
+    <item>
       <title>ClipMaker 1.8.1</title>
       <pubDate>Tue, 17 Nov 2026 03:21:37 +0000</pubDate>
       <sparkle:version>1.8.1</sparkle:version>

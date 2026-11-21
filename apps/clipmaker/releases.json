@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.8.2",
+    "shortVersion": "1.8.2",
+    "minimumSystemVersion": "26.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.8.2/ClipMaker-1.8.2.zip",
+    "length": 6013567,
+    "signature": "sYEG2BUk5TTEPub1OdqxqGyh4JHxHa3bGhP0AyiSlMaSFIIcLiJuXD4fC4cnCK9/r5/IitfpQfzfX1iYG3YfDw==",
+    "notes": "Video editor: right-click a piece to move it to the start or end of the edit, or one place left or right. Short pieces on a long timeline can be dragged again (their trim handles no longer cover the whole piece).",
+    "pubDate": "Sat, 21 Nov 2026 13:05:17 +0000"
+  },
+  {
     "version": "1.8.1",
     "shortVersion": "1.8.1",
     "minimumSystemVersion": "26.0",
