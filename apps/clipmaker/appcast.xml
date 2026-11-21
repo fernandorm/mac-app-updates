@@ -3,6 +3,15 @@
   <channel>
     <title>ClipMaker</title>
     <item>
+      <title>ClipMaker 1.9.0</title>
+      <pubDate>Sat, 21 Nov 2026 13:09:43 +0000</pubDate>
+      <sparkle:version>1.9.0</sparkle:version>
+      <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Video editor: drag a piece left or right to move it anywhere in the edit — to the start, between two pieces or to the end. A yellow line shows the join where it will land.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.9.0/ClipMaker-1.9.0.zip" length="6019620" type="application/octet-stream" sparkle:edSignature="Fl2Lbco8quatSFgjLuGaQe0TulvalxuLGDaNCyrhJT0VIi2wKetDAA73mJ+4n64W/hfH4gpYI2M7mocwGlBUCQ=="/>
+    </item>
+    <item>
       <title>ClipMaker 1.8.2</title>
       <pubDate>Sat, 21 Nov 2026 13:05:17 +0000</pubDate>
       <sparkle:version>1.8.2</sparkle:version>
