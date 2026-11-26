@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.5.0",
+    "shortVersion": "1.5.0",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.5.0/MySnippingTool-1.5.0.zip",
+    "length": 2316009,
+    "signature": "7KYIPPv4sN4WeC9KqziAQ9Mxl4G3xAVYcHvbYb5ADJ7RHVm+jZ/R1nbTNPe8znxy3melHuRXLNONqABXhREKCg==",
+    "notes": "New: Capture Full Page (⌥⇧⌘8). Click a browser window and MySnippingTool scrolls the page from top to bottom on its own and saves it as one tall image. It asks for Accessibility access the first time, so it can scroll the page for you.",
+    "pubDate": "Thu, 26 Nov 2026 17:35:53 +0000"
+  },
+  {
     "version": "1.4.3",
     "shortVersion": "1.4.3",
     "minimumSystemVersion": "14.0",
