@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.5.1",
+    "shortVersion": "1.5.1",
+    "minimumSystemVersion": "14.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/mysnippingtool-v1.5.1/MySnippingTool-1.5.1.zip",
+    "length": 2321528,
+    "signature": "4tm12gW/B76Wg+T6hl5E29rvquL2HWKE5SP/kMSxQzxwZIwa+d9ArnhfBnBnmGypqAeXV0C2dYtzigxzbqWGDQ==",
+    "notes": "Fixed: Capture Text (OCR) found no text when the selected area was wide, such as most of a large or Retina screen. Wide areas are now read in full, and small text in them is recognized more reliably.",
+    "pubDate": "Fri, 27 Nov 2026 13:55:44 +0000"
+  },
+  {
     "version": "1.5.0",
     "shortVersion": "1.5.0",
     "minimumSystemVersion": "14.0",
