@@ -3,6 +3,15 @@
   <channel>
     <title>ClipMaker</title>
     <item>
+      <title>ClipMaker 1.9.1</title>
+      <pubDate>Sat, 28 Nov 2026 10:56:25 +0000</pubDate>
+      <sparkle:version>1.9.1</sparkle:version>
+      <sparkle:shortVersionString>1.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Framing panel: with many people in the shot, the Person buttons now wrap onto more lines, so the panel no longer stretches and the Fill/Fit buttons stay visible.</p>]]></description>
+      <enclosure url="https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.9.1/ClipMaker-1.9.1.zip" length="6020223" type="application/octet-stream" sparkle:edSignature="22V66AYURtfHbN9xn0Gy/P5aFtL4nz+AxGOOwW/yySucKwWCbI4OjJyhuJLsXc9DevZsO7pmvv1vNmG39PldAg=="/>
+    </item>
+    <item>
       <title>ClipMaker 1.9.0</title>
       <pubDate>Sat, 21 Nov 2026 13:09:43 +0000</pubDate>
       <sparkle:version>1.9.0</sparkle:version>

@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.9.1",
+    "shortVersion": "1.9.1",
+    "minimumSystemVersion": "26.0",
+    "url": "https://github.com/fernandorm/mac-app-updates/releases/download/clipmaker-v1.9.1/ClipMaker-1.9.1.zip",
+    "length": 6020223,
+    "signature": "22V66AYURtfHbN9xn0Gy/P5aFtL4nz+AxGOOwW/yySucKwWCbI4OjJyhuJLsXc9DevZsO7pmvv1vNmG39PldAg==",
+    "notes": "Framing panel: with many people in the shot, the Person buttons now wrap onto more lines, so the panel no longer stretches and the Fill/Fit buttons stay visible.",
+    "pubDate": "Sat, 28 Nov 2026 10:56:25 +0000"
+  },
+  {
     "version": "1.9.0",
     "shortVersion": "1.9.0",
     "minimumSystemVersion": "26.0",
